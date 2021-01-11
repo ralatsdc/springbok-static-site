@@ -2,3 +2,20 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Springbok LLC"
 theme = "basic"
+author = "William Spear"
+description = "Hugo Sample Site"
+googleAnalytics = "UA-xxxxxxxxxxxx"
+
+[params]
+    gh_url = "https://api.github.com/users"
+    gh_user = "mojombo"
+    company_name = "Springbok LLC"
+[permalinks]
+    posts = "posts/:year/:month/:slug/"
+    year = "/posts/:slug/"
+    month = "/posts/:slug/"
+[taxonomies]
+    year = "year"
+    month = "month"
+    tag = "tags"
+    category = "categories"

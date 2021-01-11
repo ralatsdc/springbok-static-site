@@ -1,0 +1,5 @@
+<footer>
+      {{ range .Site.Data.socialmedia.accounts }}
+        <a href="{{ .url }}">{{ .name }}</a>
+      {{ end }}
+</footer>
