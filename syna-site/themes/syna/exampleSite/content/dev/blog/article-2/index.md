@@ -18,7 +18,7 @@ display_date = true
 
 Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being, you know, shot.
 
-![Screenshot of the demo](content/dev/blog/article-2/screenshot.png)
+![Screenshot of the demo](screenshot.png)
 
 You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. I think my strongest asset maybe by far is my temperament. I have a placeholding temperament. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being, you know, shot. You’re disgusting.
 

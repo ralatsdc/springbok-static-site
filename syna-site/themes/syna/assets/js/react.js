@@ -1,4 +1,4 @@
-import React from 'syna-site/themes/syna/assets/js/react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import './editor';
 

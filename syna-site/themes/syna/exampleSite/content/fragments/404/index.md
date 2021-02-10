@@ -16,4 +16,4 @@ fragments directory and is only rendered in the 404 page.
 Since 404 fragment can not be rendered in normal pages, the following is a
 screenshot.
 
-![404.png](content/fragments/404/404.png)
+![404.png](./404.png)

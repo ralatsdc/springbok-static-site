@@ -33,7 +33,7 @@ The rendering code flow of Syna would do the following:
 - A container for modal and React is added to the page in case there is any need for them
 - `js.html` partial is rendered from `baseof.html` layout
 
-![This is how fragments are rendered in the single layout](content/docs/fragments-implementation/fragments-01.png)
+![This is how fragments are rendered in the single layout](./fragments-01.png)
 
 ### Creating new fragments
 

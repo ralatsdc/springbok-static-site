@@ -16,23 +16,23 @@ $border-color:        $gray-200;
 $list-inline-padding: 5px;
 $dropdown-item-padding-x: 1rem;
 {{- if not .Site.Params.fontawesome.disabled -}}
-  @import 'assets/styles/fontawesome/fontawesome';
-  @import 'assets/styles/fontawesome/regular';
-  @import 'assets/styles/fontawesome/solid';
+  @import './fontawesome/fontawesome.scss';
+  @import './fontawesome/regular.scss';
+  @import './fontawesome/solid.scss';
   {{- if .Site.Params.fontawesome.pro }}
     @import './fontawesome/light.scss';
   {{- end }}
-  @import 'assets/styles/fontawesome/brands';
+  @import './fontawesome/brands.scss';
 {{- end }}
-@import 'assets/styles/bootstrap/bootstrap';
-@import 'assets/styles/helpers';
-@import 'assets/styles/header';
-@import 'assets/styles/faq';
-@import 'assets/styles/form';
-@import 'assets/styles/portfolio';
-@import 'assets/styles/pricing';
-@import 'assets/styles/stripe';
-@import 'assets/styles/modal';
-@import 'assets/styles/search';
-@import 'assets/styles/toc';
-@import 'assets/styles/syna';
+@import './bootstrap/bootstrap.scss';
+@import './helpers';
+@import './header';
+@import './faq';
+@import './form';
+@import './portfolio';
+@import './pricing';
+@import './stripe';
+@import './modal';
+@import './search';
+@import './toc';
+@import './syna';
