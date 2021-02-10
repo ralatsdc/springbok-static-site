@@ -2,8 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hugo-book-site/themes/syna" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hugo-static-site/themes/syna" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/syna-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/syna-example/themes/syna" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/syna-quickstart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/syna-quickstart/themes/syna" vcs="Git" />
   </component>
 </project>
