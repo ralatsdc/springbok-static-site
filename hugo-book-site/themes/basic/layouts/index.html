@@ -1,9 +1,0 @@
-{{ define "main" }}
-
-        {{ .Content }}
-        <p>Latest Project:</p>
-        {{ range first 1 (where .Site.RegularPages "Type" "in" "projects").ByDate.Reverse }}
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{ end }}
-
-{{ end }}
