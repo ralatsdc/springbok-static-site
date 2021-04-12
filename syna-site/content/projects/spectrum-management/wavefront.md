@@ -1,7 +1,9 @@
 +++
-title = "Space-X"
-fragment = "content"
+title = "Wavefront"
 weight = 10
+
+[asset]
+  image = "wavefront-aurora.png"
 +++
 
-Developed simulation for satellite constellation spectrum management. 
+Enabled companies to advocate and protect their spectrum.

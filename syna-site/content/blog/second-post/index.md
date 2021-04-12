@@ -1,10 +1,10 @@
 +++
-title = "First Post"
+title = "Second Post"
 fragment = "content"
 weight = 10
 
 [asset]
-  image = "addgene.png"
+  image = "spacex.png"
 +++
 
-Investigated and developed pipelines and approaches for assembling plasmid short-read NGS data at scale.
+Developed simulation for satellite constellation spectrum management. 

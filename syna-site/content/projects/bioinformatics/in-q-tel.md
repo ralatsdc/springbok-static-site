@@ -1,10 +1,9 @@
 +++
-title = "Addgene"
-fragment = "content"
+title = "In-Q-Tel"
 weight = 10
 
 [asset]
-  image = "addgene.png"
+  image = "in-q-tel.jpg"
 +++
 
-plasmid assembly content
+Investigated and developed pipelines and approaches for assembling plasmid short-read NGS data at scale.

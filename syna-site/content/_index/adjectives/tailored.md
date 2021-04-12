@@ -1,9 +1,9 @@
 +++
-title = "Interdisciplinary"
-subtitle = "Springbok is well versed in a multitude of fields"
-weight = 1
+title = "Tailored"
+subtitle = "Springbok will work with you to create a solution that fits your needs"
+weight = 3
 
 [asset]
-  image = "mit-ll-01.jpg"
+  image = "tailored-pixel.png"
 +++
 

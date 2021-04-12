@@ -1,5 +1,6 @@
 +++
-title = "Projects"
+title = "Blog"
 date = "2017-09-07"
-description = "project list"
+description = "Springbok Blog"
 +++
+

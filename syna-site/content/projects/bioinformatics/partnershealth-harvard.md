@@ -1,10 +1,6 @@
 +++
-title = "Addgene"
-fragment = "content"
+title = "Partners Health & Harvard Medical Institute"
 weight = 10
-
-[asset]
-  image = "addgene.png"
 +++
 
-Investigated and developed pipelines and approaches for assembling plasmid short-read NGS data at scale.
+Developed analytics for metabolism and diabetes research.

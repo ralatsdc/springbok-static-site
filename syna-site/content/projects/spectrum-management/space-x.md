@@ -1,7 +1,9 @@
 +++
-title = "Spectrum Management"
-fragment = "content"
+title = "Space-X"
 weight = 10
+
+[asset]
+  image = "spacex.png"
 +++
 
-Spectrum management content
+Developed simulation for satellite constellation spectrum management. 

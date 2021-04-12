@@ -1,6 +1,6 @@
 +++
-title = "Quantitative Investing"
-fragment = "content"
+title = "Federated Investors"
 weight = 10
 +++
-Quant content
+
+Developed a quantitative approach and system for detecting market-timing.

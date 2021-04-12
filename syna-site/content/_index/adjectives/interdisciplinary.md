@@ -1,9 +1,9 @@
 +++
-title = "Nimble"
-subtitle = "Springbok easily navigates new technologies and is responsive to change"
-weight = 1
+title = "Interdisciplinary"
+subtitle = "Springbok is well versed in a multitude of fields"
+weight = 2
 
 [asset]
-  image = "mit-ll-01.jpg"
+  image = "interdisciplinary-pixel.png"
 +++
 

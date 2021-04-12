@@ -1,10 +1,9 @@
 +++
-title = "Bioinformatics"
-fragment = "content"
+title = "Addgene"
 weight = 10
 
 [asset]
   image = "addgene.png"
 +++
 
-plasmid assembly content
+Investigated and developed pipelines and approaches for assembling plasmid short-read NGS data at scale.
