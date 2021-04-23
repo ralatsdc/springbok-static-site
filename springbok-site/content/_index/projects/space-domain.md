@@ -1,7 +1,6 @@
 +++
 date = "2018-07-09"
-weight = 10
-background = "secondary"
+weight = 110
 fragment = "portfolio"
 
 title = "Space Domain Awareness"

@@ -1,7 +1,6 @@
 +++
 date = "2018-07-09"
-weight = 30
-background = "secondary"
+weight = 130
 fragment = "portfolio"
 
 title = "Quantitative Investing"

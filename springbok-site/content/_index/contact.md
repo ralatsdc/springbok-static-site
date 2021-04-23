@@ -3,15 +3,15 @@ fragment = "contact"
 #disabled = true
 date = "2017-09-10"
 weight = 1100
-#background = "light"
+background = "dark"
 form_name = "defaultContact"
 
-title = "Contact fragment"
+title = "Contact Us!"
 subtitle  = "*Have a question? A novel project idea?  Send us a message.*"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://example.com/mailout" #default: formspree.io
-email = "mail@example.com"
+post_url = "https://formspree.io/f/meqvowje" #default: formspree.io
+email = "will.spear@springbok.io"
 button = "Send Button" # defaults to theme default
 #netlify = false
 

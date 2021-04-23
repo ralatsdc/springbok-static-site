@@ -81,7 +81,7 @@
     {{- end -}}
     {{- with .Params.subtitle }}
       <div class="hero-subtitle-container row justify-content-center align-items-start">
-        <div class="hero-subtitle overlay lead
+        <div class="hero-subtitle overlay w-50 lead
           {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
         ">
           {{- . | markdownify -}}

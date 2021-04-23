@@ -6,9 +6,6 @@ weight = 1100
 #background = "light"
 form_name = "defaultContact"
 
-title = "Contact fragment"
-subtitle  = "*not working on demo page*"
-
 # PostURL can be used with backends such as mailout from caddy
 post_url = "https://example.com/mailout" #default: formspree.io
 email = "mail@example.com"
