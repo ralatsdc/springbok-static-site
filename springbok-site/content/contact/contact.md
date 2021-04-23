@@ -7,8 +7,8 @@ weight = 1100
 form_name = "defaultContact"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://example.com/mailout" #default: formspree.io
-email = "mail@example.com"
+post_url = "https://formspree.io/f/meqvowje" #default: formspree.io
+email = "will.spear@springbok.io"
 button = "Send Button" # defaults to theme default
 #netlify = false
 

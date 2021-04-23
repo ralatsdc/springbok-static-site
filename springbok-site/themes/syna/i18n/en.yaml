@@ -42,13 +42,13 @@
 
 # 404
 - id: 404.title
-  translation: "Page not found"
+  translation: "Sorry!"
 - id: 404.subtitle
-  translation: "Requested page could not be found"
+  translation: "We cannot find the page you are looking for."
 - id: 404.direction
-  translation: "You can always go back to our main page"
+  translation: "If you have any questions, feel free to reach out."
 - id: 404.button
-  translation: "Main page"
+  translation: "Homepage"
   
 # Member
 - id: member.livesIn

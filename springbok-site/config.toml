@@ -130,7 +130,7 @@ url = "https://www.linkedin.com/company/springbok/"
   weight = 20
   name = "facebook"
   pre = "fab fa-facebook-f"
-  url = "#"
+  url = "https://www.linkedin.com/company/springbok/"
 
 [[menu.footer_social]]
   weight = 30
