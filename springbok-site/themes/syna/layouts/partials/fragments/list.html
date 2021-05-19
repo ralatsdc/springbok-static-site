@@ -58,9 +58,15 @@
                       <h4 class="col px-0 m-0
                         {{- if eq $.page.Permalink .Permalink }} active-page {{- end -}}
                       ">
-                        <a href="{{ .Permalink }}">
-                          {{- $page_title | markdownify -}}
-                        </a>
+                        {{ if .Params.canonicalUrl }}
+                          <a rel="canonical" href="{{ .Params.canonicalUrl }}" target="_blank">
+                            {{- $page_title | markdownify -}}
+                          </a>
+                        {{ else }}
+                          <a href="{{ .Permalink }}">
+                            {{- $page_title | markdownify -}}
+                          </a>
+                        {{ end }}
                       </h4>
                     {{- else }}
                       <h5 class="col px-0 m-0
@@ -107,10 +113,19 @@
                   <div class="col-12 mt-1
                     {{- printf " p%s-0" (cond (eq $self.Params.tiled true) "x" "l") -}}
                   ">
+
+                  {{ if .Params.canonicalUrl }}
                     <img
-                      src="{{ partial "helpers/image.html" (dict "root" $root "asset" .Params.asset) }}"
-                      alt="{{ .Params.subtitle | default $page_title }}"
-                      class="img-fluid mb-2">
+                            src="{{ partial "helpers/image.html" (dict "root" $root "asset" .Params.asset) }}"
+                    alt="{{ .Params.subtitle | default $page_title }}"
+                    class="img-fluid mb-2">
+                  {{ else }}
+                    <img
+                            src="{{ partial "helpers/image.html" (dict "root" $root "asset" .Params.asset) }}"
+                    alt="{{ .Params.subtitle | default $page_title }}"
+                    class="img-fluid mb-2">
+                  {{ end }}
+
                   </div>
                 {{- end -}}
               {{- end -}}
