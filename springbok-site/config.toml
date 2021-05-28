@@ -151,3 +151,8 @@ url = "https://www.linkedin.com/company/springbok/"
 
 name = "s3"
 URL = "s3://springbok.io?region=us-east-1"
+
+[[deployment.targets]]
+
+name = "www"
+URL = "s3://www.springbok.io?region=us-east-1"
