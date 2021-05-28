@@ -5,7 +5,8 @@ date = "2017-10-05"
 weight = 100
 #background = ""
 
-title = "About Springbok"
+subtitle = "About Springbok"
+title_align = "left"
 #subtitle = ""
 +++
 
@@ -17,18 +18,18 @@ We at Springbok are problem solvers. We'd love to get to know you.
 
 **SPRINGBOK’S TECHNICAL EXPERTISE**
 
-■ Scientific Computing: MATLAB, R, NumPy, SciPy, Orekit
+* **Scientific Computing**: MATLAB, R, NumPy, SciPy, Orekit
 
-■ Bioinformatics: Toil, SPAdes, Unicycler, MaSuRCA, SSAKE, BioContainers, Bioconda, Biopython
+* **Bioinformatics**: Toil, SPAdes, Unicycler, MaSuRCA, SSAKE, BioContainers, Bioconda, Biopython
 
-■ Stream Processing: Spark Streaming, Apache Flink, Kafka Streams
+* **Stream Processing**: Spark Streaming, Apache Flink, Kafka Streams
 
-■ Distributed Computing: Apache Storm, Apache Flink Stateful Functions, Celery, GridGain
+* **Distributed Computing**: Apache Storm, Apache Flink Stateful Functions, Celery, GridGain
 
-■ Programming Languages: Python, Java, Scala, Go, Javascript, HTML/CSS, bash, Perl, Ruby
+* **Programming Languages**: Python, Java, Scala, Go, Javascript, HTML/CSS, bash, Perl, Ruby
 
-■ Platforms: Linux, MacOS, AWS, Kubernetes, Docker, Windows
+* **Platforms**: Linux, MacOS, AWS, Kubernetes, Docker, Windows
 
-■ Software Development: Scrum, emacs, Eclipse, Unity3D, PyCharm, Intellij
+* **Software Development**: Scrum, emacs, Eclipse, Unity3D, PyCharm, Intellij
 
-■ Web Technologies: GoHugo, Django, Javascript, D3, PHP, Ruby On Rails, Bootstrap
+* **Web Technologies**: GoHugo, Django, Javascript, D3, PHP, Ruby On Rails, Bootstrap

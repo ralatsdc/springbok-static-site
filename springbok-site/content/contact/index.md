@@ -1,7 +1,7 @@
 +++
 fragment = "item"
 weight = 10
-title = "Contact Us!"
+subtitle = "Contact Us!"
 align = "right"
 
 [asset]
@@ -14,8 +14,8 @@ Reaching out to solve a problem? Here are the steps:
 Reach out and let us know what’s going on. Just tell us:
 X
 Y
-Z
+Z.
 
-We’ll set up a consultation to form a plan that works for you
+We’ll set up a consultation to form a plan that works for you.
 
-We get to work solving your specific problem
+We get to work solving your specific problem.

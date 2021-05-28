@@ -1,6 +1,6 @@
 +++
 title = "Interdisciplinary"
-subtitle = "Springbok is well versed in a multitude of fields"
+subtitle = "Springbok is well versed in a multitude of fields."
 weight = 2
 
 [asset]
