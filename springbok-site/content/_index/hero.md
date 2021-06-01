@@ -6,8 +6,9 @@ weight = 10
 background = "dark" # can influence the text color
 particles = true
 
-#title = "go nimble"
-subtitle = "We are more than software engineers. We are problem solvers. Springbok is always looking for new projects and problems to explore, to see how novel ideas, fundamental principles and new approaches can be combined to generate innovative solutions. "
+title = "go nimble."
+subtitle = "We are more than software engineers. \n We are problem solvers."
+#subtitle = "We are more than software engineers. We are problem solvers. Springbok is always looking for new projects and problems to explore, to see how novel ideas, fundamental principles and new approaches can be combined to generate innovative solutions. "
 
 #[header]
 #  image = "circuit_banner.jpg"

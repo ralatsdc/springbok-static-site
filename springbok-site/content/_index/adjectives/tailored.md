@@ -1,9 +1,11 @@
 +++
-title = "Tailored"
-subtitle = "Springbok will work with you to create a solution that fits your needs."
+title = "tailored."
+#subtitle = "Springbok will work with you to create a solution that fits your needs."
 weight = 3
 
 [asset]
   image = "tailored-pixel.png"
 +++
+
+Springbok will work with you to create a solution that fits your needs.
 
