@@ -9,13 +9,10 @@ align = "right"
 +++
 
 
-Reaching out to solve a problem? Here are the steps:
+Need to solve a problem? Here are the steps:
 
-Reach out and let us know what’s going on. Just tell us:
-X
-Y
-Z.
+1. Reach out and let us know what’s going on. Just tell us: X, Y, Z (You know what's important).
 
-We’ll set up a consultation to form a plan that works for you.
+2. We’ll set up a consultation to form a plan that works for you.
 
-We get to work solving your specific problem.
+3. We get to work solving your specific problem.
