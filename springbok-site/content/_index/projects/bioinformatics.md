@@ -4,8 +4,8 @@ weight = 120
 fragment = "portfolio"
 background = "secondary"
 
-title = "**Bioinformatics**"
-subtitle = "Software tools for understanding biological data"
+subtitle = "**Bioinformatics**"
+#subtitle = "Software tools for understanding biological data"
 #title_align = "left" # Default is center, can be left, right or center
 
 height = "15rem" # Default is auto
