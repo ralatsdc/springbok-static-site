@@ -2,11 +2,13 @@
 date = "2018-07-09"
 weight = 130
 fragment = "portfolio"
-background = "secondary"
+background = "dark"
+gradient = "success-primary"
 
-subtitle = "**Quantitative Investing**"
+subtitle = "**QUANTITATIVE INVESTING**"
+#subtitle = "**Quantitative Investing**"
 #subtitle = "Advanced mathematical modelling, computer systems, and data analysis in trading"
 #title_align = "left" # Default is center, can be left, right or center
 
-height = "10rem" # Default is auto
+height = "15rem" # Default is auto
 +++

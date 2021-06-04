@@ -5,6 +5,7 @@ date = "2016-09-07"
 weight = 10
 background = "dark" # can influence the text color
 particles = true
+text = "white"
 
 title = "go nimble."
 subtitle = "We are more than software engineers. <br> We are problem solvers."

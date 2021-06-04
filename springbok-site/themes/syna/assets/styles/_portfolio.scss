@@ -6,6 +6,9 @@
   align-items: center;
   position: relative;
 
+  background: white;
+  border-radius: 3rem;
+
   &.has-background {
     .portfolio {
       &-image, &-icon {

@@ -2,9 +2,11 @@
 date = "2018-07-09"
 weight = 120
 fragment = "portfolio"
-background = "secondary"
+background = "dark"
+gradient = "blue-danger"
 
-subtitle = "**Bioinformatics**"
+subtitle = "**BIOINFORMATICS**"
+#subtitle = "**Bioinformatics**"
 #subtitle = "Software tools for understanding biological data"
 #title_align = "left" # Default is center, can be left, right or center
 

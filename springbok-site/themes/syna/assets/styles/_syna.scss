@@ -239,3 +239,53 @@ section .bg {
     }
   }
 }
+
+$neon: #60FF6B;
+
+$gradient-colors: () !default;
+$gradient-colors: map-merge(
+                (
+                        "primary":    $primary,
+                        "secondary":  $secondary,
+                        "success":    $success,
+                        "info":       $info,
+                        "warning":    $warning,
+                        "danger":     $danger,
+                        "light":      $light,
+                        "dark":       $dark,
+                        "sb-maroon":  $sb-maroon,
+                        "blue":  $blue,
+                        "purple": $purple,
+                        "neon": $neon
+),
+$theme-colors
+);
+
+@function randomNum($min, $max) {
+  $rand: random();
+  $randomNum: $min + floor($rand * (($max - $min) + 1));
+
+  @return $randomNum;
+}
+
+@mixin bg-mix($parent, $color, $secondary_color, $ignore-warning: false) {
+  #{$parent} {
+    background: #000000; /* fallback for old browsers */
+    background: -webkit-linear-gradient(#{randomNum(40, 320)}deg, $color , $secondary_color); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(#{randomNum(40, 320)}deg, $color , $secondary_color); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 5rem;
+  }
+}
+
+@each $color, $value in $gradient-colors {
+  @each $secondary_color, $secondary_value in $gradient-colors{
+    @include bg-mix(".bg-gradient-#{$color}-#{$secondary_color}", $value, $secondary_value, true);
+  }
+}
+
+.gradient{
+  background: #000000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(300deg, $primary , $black); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(300deg, $primary , $white); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  border-radius: 5rem;
+}

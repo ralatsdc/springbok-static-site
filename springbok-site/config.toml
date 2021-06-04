@@ -157,3 +157,8 @@ URL = "s3://springbok.io?region=us-east-1"
 
 name = "www"
 URL = "s3://www.springbok.io?region=us-east-1"
+
+[[deployment.targets]]
+
+name = "staging"
+URL = "s3://springbok-hugo-site?region=us-east-1"

@@ -2,7 +2,7 @@
 date = "2018-07-09"
 weight = 100
 fragment = "content"
-background = "secondary"
+background = "dark"
 
 title = "**What's your need?**"
 subtitle = "We have a proven track record in diverse fields."
