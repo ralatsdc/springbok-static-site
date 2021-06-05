@@ -4,6 +4,7 @@ weight = 110
 fragment = "portfolio"
 background = "dark"
 gradient = "info-warning"
+text = "black"
 
 subtitle = "**SPACE DOMAIN AWARENESS**"
 #subtitle = "**Space Domain Awareness**"

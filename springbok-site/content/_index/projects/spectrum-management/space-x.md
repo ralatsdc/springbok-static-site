@@ -1,9 +1,9 @@
 +++
-title = "Space-X"
+#title = "Space-X"
 weight = 10
 
 [asset]
-  image = "spacex.png"
+  image = "SpaceX-Logo.png"
 +++
 
 Developed simulation for satellite constellation spectrum management. 
