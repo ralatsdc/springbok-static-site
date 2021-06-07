@@ -4,6 +4,7 @@ weight = 120
 fragment = "portfolio"
 background = "dark"
 gradient = "blue-danger"
+text = "black"
 
 subtitle = "**BIOINFORMATICS**"
 #subtitle = "**Bioinformatics**"

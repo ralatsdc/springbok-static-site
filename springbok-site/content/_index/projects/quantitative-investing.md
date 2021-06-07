@@ -4,6 +4,7 @@ weight = 130
 fragment = "portfolio"
 background = "dark"
 gradient = "success-primary"
+text = "black"
 
 subtitle = "**QUANTITATIVE INVESTING**"
 #subtitle = "**Quantitative Investing**"

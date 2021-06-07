@@ -4,6 +4,7 @@ weight = 140
 fragment = "portfolio"
 background = "dark"
 gradient = "purple-neon"
+text = "black"
 
 subtitle = "**SPECTRUM MANAGEMENT**"
 #subtitle = "**Spectrum Management**"

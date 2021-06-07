@@ -3,6 +3,9 @@ fragment = "item"
 weight = 10
 subtitle = "Contact Us!"
 align = "right"
+background = "dark"
+gradient = "blue-danger"
+text = "black"
 
 [asset]
     image = "springbok_sitting_13_mosaic_15.png"
