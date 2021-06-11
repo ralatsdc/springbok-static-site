@@ -5,6 +5,7 @@ date = "2017-09-09"
 weight = 50
 background = "dark"
 gradient = "true"
+side_header = "false"
 
 title_align = "left"
 title = "Meet Springbok."

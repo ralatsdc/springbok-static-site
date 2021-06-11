@@ -1,9 +1,10 @@
 +++
-#title = "MIT Lincoln Lab"
+title = "MIT Lincoln Lab"
 weight = 1
+align = "center"
 
 [asset]
-  image = "lincoln_lab_logo.png"
+  image = "mit-ll-01.jpg"
 +++
 
 Supported the $1B Air Force Space Fence System by designing and developing a high performance streaming satellite position simulator. 

@@ -1,9 +1,9 @@
 +++
-#title = "Partners Health & Harvard Medical Institute"
+title = "Partners Health & Harvard Medical Institute"
 weight = 10
 
 [asset]
-  image = "hms_logo.png"
+  image = "harvard_lawn.jpg"
 +++
 
 Developed analytics for metabolism and diabetes research.

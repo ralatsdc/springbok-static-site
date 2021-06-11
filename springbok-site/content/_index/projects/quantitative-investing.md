@@ -1,15 +1,14 @@
 +++
 date = "2018-07-09"
 weight = 130
-fragment = "portfolio"
-background = "dark"
-gradient = "success-primary"
+fragment = "domain"
+background = "success"
+side_header = "left"
 text = "black"
 
-subtitle = "**QUANTITATIVE INVESTING**"
-#subtitle = "**Quantitative Investing**"
-#subtitle = "Advanced mathematical modelling, computer systems, and data analysis in trading"
-#title_align = "left" # Default is center, can be left, right or center
+title = "**QUANTITATIVE INVESTING**"
+subtitle = "Advanced mathematical modelling, computer systems, and data analysis in trading"
+title_align = "right" # Default is center, can be left, right or center
 
-height = "15rem" # Default is auto
+height = "25rem" # Default is auto
 +++

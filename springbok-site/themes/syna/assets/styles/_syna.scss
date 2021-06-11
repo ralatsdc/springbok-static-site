@@ -289,3 +289,21 @@ $theme-colors
   background: linear-gradient(300deg, $primary , $white); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   border-radius: 5rem;
 }
+
+.pe-none{
+  pointer-events: none;
+}
+
+.stick-bottom-left{
+  position: absolute;
+  bottom: 1rem;
+  left: 3rem;
+  width: 50%;
+}
+
+.stick-bottom-right{
+  position: absolute;
+  bottom: 1rem;
+  right: 3rem;
+  width: 50%;
+}

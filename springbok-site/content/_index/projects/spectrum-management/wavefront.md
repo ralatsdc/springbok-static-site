@@ -1,5 +1,5 @@
 +++
-#title = "Wavefront"
+title = "Wavefront"
 weight = 10
 
 [asset]

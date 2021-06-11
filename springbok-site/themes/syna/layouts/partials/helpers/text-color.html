@@ -5,6 +5,8 @@
     {{- printf " %s" $text_black -}}
 {{- else if eq .text_color "white" -}}
     {{- printf " %s" $text_white -}}
+{{- else if eq .text_color "dark" -}}
+    {{- printf " text-dark" -}}
 {{- else if in (slice "white" "light" "secondary" "primary") $bg -}}
     {{- printf " %s" $text_black -}}
 {{- else -}}

@@ -1,5 +1,5 @@
 +++
-#title = "Federated Hermes"
+title = "Federated Hermes"
 weight = 10
 
 [asset]

@@ -55,8 +55,8 @@ lastmod = ["lastmod", ":git", "date"]
   [params.colors]
     primary = "#652B2E"
     secondary = "#dbdbdb"
-    success = "#008f54"
-    info = "#00c9dc"
+    success = "#A39C65"
+    info = "#E6B522"
     warning = "#fdf314"
     danger = "#dc1200"
     light = "#f8f9fa"

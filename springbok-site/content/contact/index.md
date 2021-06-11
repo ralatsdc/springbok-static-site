@@ -3,8 +3,7 @@ fragment = "item"
 weight = 10
 subtitle = "Contact Us!"
 align = "right"
-background = "dark"
-gradient = "blue-danger"
+background = "success"
 text = "black"
 
 [asset]

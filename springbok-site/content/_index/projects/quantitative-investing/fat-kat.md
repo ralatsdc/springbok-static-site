@@ -1,5 +1,5 @@
 +++
-#title = "Fat Kat"
+title = "Fat Kat"
 weight = 10
 
 [asset]
