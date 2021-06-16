@@ -1,0 +1,14 @@
++++
+title = "New salmonella proteins discovered"
+date = "12/16/2020"
+canonicalUrl = "https://www.eurekalert.org/pub_releases/2020-12/uow-nsp121620.php"
+fragment = "content"
+weight = 10
+
+[asset]
+    image = "new-salmonella-proteins-discovered.jpeg"
++++
+
+In a bioinformatic reassessment of the Salmonella genome, the team led by 
+JMU doctoral student Elisa Venturini identified many unknown small proteins 
+that ...

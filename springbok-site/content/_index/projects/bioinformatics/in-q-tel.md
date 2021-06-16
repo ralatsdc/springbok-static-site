@@ -1,9 +1,9 @@
 +++
 title = "In-Q-Tel"
-weight = 10
+weight = 12
 
 [asset]
-  image = "in-q-tel.jpg"
+  image = "Scaled-In-Q-Tel-01.png"
 +++
 
 Investigated and developed pipelines and approaches for assembling plasmid short-read NGS data at scale.

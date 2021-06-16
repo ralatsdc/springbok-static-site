@@ -53,12 +53,12 @@ lastmod = ["lastmod", ":git", "date"]
     pro = false
 
   [params.colors]
-    primary = "#652B2E"
+    primary = "#5D070E"
     secondary = "#dbdbdb"
     success = "#A39C65"
     info = "#E6B522"
     warning = "#fdf314"
-    danger = "#dc1200"
+    danger = "#A3474C"
     light = "#f8f9fa"
     dark = "#343a40"
     gray = "#ADADAD"
@@ -73,7 +73,7 @@ name = "Book a Consultation"
 weight = 1
 
 [[menu.main]]
-url = "#projects-space-domain"
+url = "#projects"
 name = "Domains"
 weight = 2
 
@@ -93,7 +93,7 @@ name = "Contact"
 weight = 30
 
 [[menu.footer]]
-  url = "#projects-space-domain"
+  url = "#projects"
   name = "Domains"
   weight = 10
 
@@ -150,6 +150,11 @@ url = "https://www.linkedin.com/company/springbok/"
 
 [[deployment.targets]]
 
+name = "staging"
+URL = "s3://springbok-hugo-site?region=us-east-1"
+
+[[deployment.targets]]
+
 name = "s3"
 URL = "s3://springbok.io?region=us-east-1"
 
@@ -157,8 +162,3 @@ URL = "s3://springbok.io?region=us-east-1"
 
 name = "www"
 URL = "s3://www.springbok.io?region=us-east-1"
-
-[[deployment.targets]]
-
-name = "staging"
-URL = "s3://springbok-hugo-site?region=us-east-1"

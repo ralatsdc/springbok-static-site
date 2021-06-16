@@ -3,7 +3,7 @@ title = "Wavefront"
 weight = 10
 
 [asset]
-  image = "Wavefront-Logo.png"
+  image = "wave-motion-waves-circles-water.jpg"
 +++
 
 Enabled companies to advocate and protect their spectrum.

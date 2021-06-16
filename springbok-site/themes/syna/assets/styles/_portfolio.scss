@@ -9,7 +9,7 @@
   background-repeat: no-repeat;
   background-size: cover;
 
-  border-radius: 3rem;
+  border-radius: 0rem !important;
 
   &.has-background {
     .portfolio {
@@ -23,7 +23,9 @@
   }
 
   .portfolio-image {
-    filter: brightness(80%);
+    filter: brightness(60%);
+    height: 100%;
+    min-width: 100%;
   }
 
   .badge-container {

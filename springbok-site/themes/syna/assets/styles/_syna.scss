@@ -297,13 +297,17 @@ $theme-colors
 .stick-bottom-left{
   position: absolute;
   bottom: 1rem;
-  left: 3rem;
-  width: 50%;
+  left: 1rem;
+  width: 60%;
 }
 
 .stick-bottom-right{
   position: absolute;
   bottom: 1rem;
-  right: 3rem;
-  width: 50%;
+  right: 1rem;
+  width: 60%;
+}
+
+.straight-border{
+  border-radius: 0rem !important;
 }

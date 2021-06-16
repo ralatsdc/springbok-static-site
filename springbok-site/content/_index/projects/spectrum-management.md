@@ -2,7 +2,7 @@
 date = "2018-07-09"
 weight = 140
 fragment = "domain"
-background = "primary"
+background = "danger"
 side_header = "right"
 text = "black"
 

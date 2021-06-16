@@ -3,8 +3,8 @@
 {{- $text_color := .params.text -}}
 {{- $align := .params.title_align | default "center" -}}
 {{- with .params.title -}}
-  <div class="subtitle-container row mx-0 col-lg-4">
-    <div class="subtitle col pt-4 pb-4 px-5
+  <div class="subtitle-container row mx-0 col-lg-4 col-md-6">
+    <div class="subtitle col pt-4 pb-4 px-3
       {{- printf " text-%s" $align -}}
     {{- partial "helpers/text-color.html" (dict "self" $self "text_color" $text_color) -}}
     ">

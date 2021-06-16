@@ -7,7 +7,7 @@ background = "dark"
 
 # Branding options
 [asset]
-  image = "springbok_logo.png"
+  image = "Springbok-Yellow-Logo-White-Type.png"
   text = "Springbok"
   height = "60px"
 +++

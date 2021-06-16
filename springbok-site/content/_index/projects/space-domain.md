@@ -2,7 +2,7 @@
 date = "2018-07-09"
 weight = 110
 fragment = "domain"
-background = "primary"
+background = "danger"
 #gradient = "info-warning"
 text = "black"
 side_header = "left"
