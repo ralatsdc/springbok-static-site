@@ -5,17 +5,17 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- if eq .Params.side_header "right" -}}
-        <div class="d-flex flex-row-reverse justify-content-right bg-{{ print (.Params.background) }}">
+        <div class="row flex-row-reverse justify-content-center bg-{{ print (.Params.background) }}">
             {{- partial "helpers/side-header.html" (dict "self" $self.self "bg" $bg "params" .Params) }}
 {{- else}}
-        <div class="d-flex justify-content-left bg-{{ print (.Params.background) }}">
+        <div class="row justify-content-center bg-{{ print (.Params.background) }}">
             {{- partial "helpers/side-header.html" (dict "self" $self.self "bg" $bg "params" .Params) }}
 {{- end}}
     {{- if eq (len $items) 0 }}
       {{- partial "helpers/empty-subpath.html" (dict "context" "portfolio" "root" $) -}}
     {{- else -}}
       {{- range (sort $items ".Params.weight") }}
-        <div class="flex-fill">
+        <div class="flex-grow-1 mw-100 col-lg-2 col-md-4 col-sm-12 p-0">
           <div
             class="rounded position-relative portfolio-item overflow-hidden
               {{- if not .Params.item_url }} has-modal {{- end -}}
