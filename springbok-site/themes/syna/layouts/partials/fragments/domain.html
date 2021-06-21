@@ -15,7 +15,7 @@
       {{- partial "helpers/empty-subpath.html" (dict "context" "portfolio" "root" $) -}}
     {{- else -}}
       {{- range (sort $items ".Params.weight") }}
-        <div class="flex-grow-1 mw-100 col-lg-2 col-md-4 col-sm-12 p-0">
+        <div class="flex-grow-1 mw-100 col-lg-2 col-sm-4 p-0">
           <div
             class="rounded position-relative portfolio-item overflow-hidden
               {{- if not .Params.item_url }} has-modal {{- end -}}
@@ -26,7 +26,7 @@
               {{- end -}}
             "
             {{- if $self.Params.height -}}
-              {{- safeHTMLAttr (printf "style='min-height:%s; height:%s'" $self.Params.height $self.Params.height) -}}
+            {{- safeHTMLAttr (printf "style='min-height:%s'" $self.Params.height $self.Params.height) -}}
             {{- end -}}>
             {{- if .Params.item_url }}
               <a href="{{ .Params.item_url | relLangURL }}">

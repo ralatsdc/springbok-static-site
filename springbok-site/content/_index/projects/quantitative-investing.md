@@ -10,5 +10,5 @@ title = "**QUANTITATIVE INVESTING**"
 subtitle = "Advanced mathematical modelling, computer systems, and data analysis in trading"
 title_align = "right" # Default is center, can be left, right or center
 
-height = "25rem" # Default is auto
+height = "20rem" # Default is auto
 +++
