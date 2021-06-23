@@ -1,6 +1,6 @@
 +++
 title = "Ten years of liquid cooling - DCD"
-date = "06/14/2019"
+date = "2019-06-14"
 canonicalUrl = "https://www.datacenterdynamics.com/en/opinions/ten-years-liquid-cooling/"
 fragment = "content"
 weight = 10

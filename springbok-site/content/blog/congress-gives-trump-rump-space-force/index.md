@@ -1,6 +1,6 @@
 +++
 title = "Congress Gives Trump Rump Space Force"
-date = "06/14/2019"
+date = "2019-06-14"
 canonicalUrl = "https://breakingdefense.com/2019/06/congress-gives-trump-rump-space-force/"
 fragment = "content"
 weight = 10

@@ -1,6 +1,6 @@
 +++
 title = "Math Equation Predicts and Detects Liver Cancer - UC San ..."
-date = "12/16/2019"
+date = "2019-12-16"
 canonicalUrl = "https://ucsdnews.ucsd.edu/pressrelease/math-equation-predicts-and-detects-liver-cancer"
 fragment = "content"
 weight = 10

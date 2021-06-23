@@ -1,5 +1,5 @@
 {{- $date := .root.Date | default .root.Lastmod }}
-{{- $date_format := .root.Site.Params.date_format | default "2006-01-02" }}
+{{- $date_format := .root.Site.Params.date_format | default "01/02/2006" }}
 
 {{- if not (eq .badge false) }}
   <span class="publish-date badge mr-1

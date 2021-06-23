@@ -1,6 +1,6 @@
 +++
 title = "Senior Official Sheds Light on Final Space Acquisition Report"
-date = "06/16/2020"
+date = "2020-06-16"
 canonicalUrl = "https://www.nationaldefensemagazine.org/articles/2020/6/16/senior-official-sheds-light-on-final-space-acquisition-report"
 fragment = "content"
 weight = 10

@@ -1,6 +1,6 @@
 +++
 title = "space domain awareness Archives"
-date = "12/16/2020"
+date = "2020-12-16"
 canonicalUrl = "https://spacenews.com/tag/space-domain-awareness/"
 fragment = "content"
 weight = 10

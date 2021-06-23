@@ -1,5 +1,5 @@
 +++
-title = "Space-X"
+title = "SpaceX"
 weight = 10
 
 [asset]

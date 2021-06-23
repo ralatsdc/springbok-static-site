@@ -1,6 +1,6 @@
 +++
 title = "Creating a digital future for Maori | Scoop News"
-date = "12/16/2019"
+date = "2019-12-16"
 canonicalUrl = "https://www.scoop.co.nz/stories/PO1912/S00211/creating-a-digital-future-for-maori.htm"
 fragment = "content"
 weight = 10

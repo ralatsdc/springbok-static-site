@@ -1,6 +1,6 @@
 +++
 title = "Report on National Security Implications of 5G Networks ..."
-date = "06/14/2019"
+date = "2019-06-14"
 canonicalUrl = "https://news.usni.org/2019/06/14/report-on-national-security-implications-of-5g-networks"
 fragment = "content"
 weight = 10

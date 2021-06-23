@@ -1,6 +1,6 @@
 +++
 title = "US Space Force celebrates first birthday virtually"
-date = "12/14/2020"
+date = "2020-12-14"
 canonicalUrl = "https://spacenews.com/u-s-space-force-celebrates-first-birthday-virtually/"
 fragment = "content"
 weight = 10

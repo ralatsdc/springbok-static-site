@@ -1,6 +1,6 @@
 +++
 title = "Space Force Launches 'Space Domain Awareness Satellite ..."
-date = "06/14/2021"
+date = "2021-06-14"
 canonicalUrl = "https://www.autoevolution.com/news/space-force-launches-space-domain-awareness-satellite-with-pegasus-xl-rocket-163165.html"
 fragment = "content"
 weight = 10
