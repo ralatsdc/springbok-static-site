@@ -4,6 +4,7 @@ date = "2021-08-31"
 fragment = "content"
 weight = 1
 important = "true"
+subtitle = "William Spear"
 
 [asset]
     image = "quantifying-risk.jpg"
