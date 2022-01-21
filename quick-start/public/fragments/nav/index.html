@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  
+
+<head>
+  <meta name="theme" content="Syna">
+  <meta name="theme-version" content="v0.17.4">
+  <meta name="theme-url" content="https://syna.okkur.org">
+  <meta name="theme-description" content="Highly customizable open source theme for Hugo based static websites">
+  <meta name="theme-author" content="Okkur Labs">
+  <meta name="theme-author-url" content="https://about.okkur.org">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="google" content="notranslate" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="description" content="The navbar of your website">
+  <meta property="og:title" content="Nav" />
+<meta property="og:description" content="The navbar of your website" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/fragments/nav/" /><meta property="article:section" content="fragments" />
+
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Nav &amp;middot; Okkur - Syna" />
+  <meta name="twitter:description" content="The navbar of your website">
+  <meta name="twitter:url" content="/fragments/nav/" />
+        <meta property="og:image" content="">
+        <meta name="twitter:image" content="">
+  <meta name="author" content="Okkur Labs">
+
+  <meta name="generator" content="Hugo 0.91.2" />
+
+  <title>Nav &middot; Okkur - Syna</title>
+
+  <!-- Theme Styles -->
+  <style>
+.mx-0 {
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
+
+ 
+@-ms-viewport {
+  width: device-width; }
+
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar; }
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit; }
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 540px;
+  max-width: 720px;
+  max-width: 960px;
+  max-width: 1140px; }
+
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto; }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px; }
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0; }
+  .no-gutters > .col,
+  .no-gutters > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0; }
+
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col,
+.col-auto {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px; }
+
+.col {
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%; }
+
+.col-auto {
+  flex: 0 0 auto;
+  width: auto;
+  max-width: none; }
+
+.col-1 {
+  flex: 0 0 8.33333%;
+  max-width: 8.33333%; }
+
+.col-2 {
+  flex: 0 0 16.66667%;
+  max-width: 16.66667%; }
+
+.col-3 {
+  flex: 0 0 25%;
+  max-width: 25%; }
+
+.col-4 {
+  flex: 0 0 33.33333%;
+  max-width: 33.33333%; }
+
+.col-5 {
+  flex: 0 0 41.66667%;
+  max-width: 41.66667%; }
+
+.col-6 {
+  flex: 0 0 50%;
+  max-width: 50%; }
+
+.col-7 {
+  flex: 0 0 58.33333%;
+  max-width: 58.33333%; }
+
+.col-8 {
+  flex: 0 0 66.66667%;
+  max-width: 66.66667%; }
+
+.col-9 {
+  flex: 0 0 75%;
+  max-width: 75%; }
+
+.col-10 {
+  flex: 0 0 83.33333%;
+  max-width: 83.33333%; }
+
+.col-11 {
+  flex: 0 0 91.66667%;
+  max-width: 91.66667%; }
+
+.col-12 {
+  flex: 0 0 100%;
+  max-width: 100%; }
+
+.order-first {
+  order: -1; }
+
+.order-last {
+  order: 13; }
+
+.order-0 {
+  order: 0; }
+
+.order-1 {
+  order: 1; }
+
+.order-2 {
+  order: 2; }
+
+.order-3 {
+  order: 3; }
+
+.order-4 {
+  order: 4; }
+
+.order-5 {
+  order: 5; }
+
+.order-6 {
+  order: 6; }
+
+.order-7 {
+  order: 7; }
+
+.order-8 {
+  order: 8; }
+
+.order-9 {
+  order: 9; }
+
+.order-10 {
+  order: 10; }
+
+.order-11 {
+  order: 11; }
+
+.order-12 {
+  order: 12; }
+
+.offset-1 {
+  margin-left: 8.33333%; }
+
+.offset-2 {
+  margin-left: 16.66667%; }
+
+.offset-3 {
+  margin-left: 25%; }
+
+.offset-4 {
+  margin-left: 33.33333%; }
+
+.offset-5 {
+  margin-left: 41.66667%; }
+
+.offset-6 {
+  margin-left: 50%; }
+
+.offset-7 {
+  margin-left: 58.33333%; }
+
+.offset-8 {
+  margin-left: 66.66667%; }
+
+.offset-9 {
+  margin-left: 75%; }
+
+.offset-10 {
+  margin-left: 83.33333%; }
+
+.offset-11 {
+  margin-left: 91.66667%; }
+
+.d-none {
+  display: none !important; }
+
+.d-inline {
+  display: inline !important; }
+
+.d-inline-block {
+  display: inline-block !important; }
+
+.d-block {
+  display: block !important; }
+
+.d-table {
+  display: table !important; }
+
+.d-table-row {
+  display: table-row !important; }
+
+.d-table-cell {
+  display: table-cell !important; }
+
+.d-flex {
+  display: flex !important; }
+
+.d-inline-flex {
+  display: inline-flex !important; }
+
+@media print {
+  .d-print-none {
+    display: none !important; }
+  .d-print-inline {
+    display: inline !important; }
+  .d-print-inline-block {
+    display: inline-block !important; }
+  .d-print-block {
+    display: block !important; }
+  .d-print-table {
+    display: table !important; }
+  .d-print-table-row {
+    display: table-row !important; }
+  .d-print-table-cell {
+    display: table-cell !important; }
+  .d-print-flex {
+    display: flex !important; }
+  .d-print-inline-flex {
+    display: inline-flex !important; } }
+
+.flex-row {
+  flex-direction: row !important; }
+
+.flex-column {
+  flex-direction: column !important; }
+
+.flex-row-reverse {
+  flex-direction: row-reverse !important; }
+
+.flex-column-reverse {
+  flex-direction: column-reverse !important; }
+
+.flex-wrap {
+  flex-wrap: wrap !important; }
+
+.flex-nowrap {
+  flex-wrap: nowrap !important; }
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse !important; }
+
+.flex-fill {
+  flex: 1 1 auto !important; }
+
+.flex-grow-0 {
+  flex-grow: 0 !important; }
+
+.flex-grow-1 {
+  flex-grow: 1 !important; }
+
+.flex-shrink-0 {
+  flex-shrink: 0 !important; }
+
+.flex-shrink-1 {
+  flex-shrink: 1 !important; }
+
+.justify-content-start {
+  justify-content: flex-start !important; }
+
+.justify-content-end {
+  justify-content: flex-end !important; }
+
+.justify-content-center {
+  justify-content: center !important; }
+
+.justify-content-between {
+  justify-content: space-between !important; }
+
+.justify-content-around {
+  justify-content: space-around !important; }
+
+.align-items-start {
+  align-items: flex-start !important; }
+
+.align-items-end {
+  align-items: flex-end !important; }
+
+.align-items-center {
+  align-items: center !important; }
+
+.align-items-baseline {
+  align-items: baseline !important; }
+
+.align-items-stretch {
+  align-items: stretch !important; }
+
+.align-content-start {
+  align-content: flex-start !important; }
+
+.align-content-end {
+  align-content: flex-end !important; }
+
+.align-content-center {
+  align-content: center !important; }
+
+.align-content-between {
+  align-content: space-between !important; }
+
+.align-content-around {
+  align-content: space-around !important; }
+
+.align-content-stretch {
+  align-content: stretch !important; }
+
+.align-self-auto {
+  align-self: auto !important; }
+
+.align-self-start {
+  align-self: flex-start !important; }
+
+.align-self-end {
+  align-self: flex-end !important; }
+
+.align-self-center {
+  align-self: center !important; }
+
+.align-self-baseline {
+  align-self: baseline !important; }
+
+.align-self-stretch {
+  align-self: stretch !important; }
+</style>
+
+      <link href="/style.min.d65e60aae4c07fbbe3cc453b74c0b04a58e5419ea7114084df318682a5199468.css" rel="stylesheet">
+      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+      <link rel="icon" sizes="16x16 32x32" type="image/x-icon" href="/favicon.ico">
+      <link rel="icon" href="/favicon.png">
+      <link rel="apple-touch-icon-precomposed" href="/favicon.png">
+      <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+
+  <script>
+    window.syna = {
+      enabledUnsafeEvents: true,
+    };
+  </script>
+  <script src="/scripts/syna-head.min.e41aca70413d995c0e49a558ce1b0a572a1046016f64d7cfed0886c7ec75e3ab.js"></script></head>
+<body class="bg-secondary">
+    <!-- Navigation --><nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy bg-dark navbar-dark" id="nav" role="navigation" style='position: sticky; top: 0; z-index: 10000 !important;'>
+  <div class="container">
+      <a class="navbar-brand py-0" href="/#">
+        <img src="/images/logo.svg" height="35" class="d-inline-block align-top" alt="Syna">
+      </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
+      <ul class="navbar-nav"><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/"
+                >
+                Home
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/fragments"
+                >
+                Fragments
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/docs"
+                >
+                Docs
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/about"
+                >
+                About
+              </a>
+              
+            </li>
+      </ul>
+        <div class="search-container position-relative">
+          <form action="/search" class="my-0">
+            <div class="input-group my-0">
+              <input type="text" class="form-control py-1" id="search-query-nav" name="s" placeholder="Search...">
+              <div class="input-group-append">
+                <button class="btn btn-primary" title="Search"><i class="fa fa-search"></i></button>
+              </div>
+            </div>
+          </form>
+          <div class="search-results-container">
+            <div class="col p-0">
+              <div id="search-results-nav" class="col px-0 results"></div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+    <div class="d-none d-lg-block pl-auto">
+      <a class="btn btn-light ignore-color-change" href="https://github.com/okkur/syna" role="button" title="Github">
+        <i class="fab fa-github mr-2"></i>
+        Star
+      </a>
+    </div>
+</nav>
+
+  <nav aria-label="breadcrumb" class="overlay navbar breadcrumb-container navbar-expand-lg pt-2 bg-light navbar-dark" id="nav-breadcrumb">
+    <div class="container">
+      <ol class="breadcrumb mb-0 py-1"><li class="breadcrumb-item active"ZgotmplZ>
+                <a href="/fragments/">Fragments showcase</a>
+            </li><li class="breadcrumb-item active">Nav
+            </li></ol>
+    </div>
+  </nav>
+<div class="scroll-to-top bg-primary has-font-icon"
+  title="Back to top"
+  ><i class="fas fa-angle-up"></i><span class="sr-only">Back to top</span>
+</div>
+
+<script id="search-empty-template-nav" type="text/x-js-template">
+  <p class="p-2">Please enter a word or phrase above</p>
+</script>
+<script id="search-no-results-template-nav" type="text/x-js-template">
+  <p class="p-2">No matches found</p>
+</script>
+<script id="search-result-template-nav" type="text/x-js-template">
+  <a href="${link}" id="summary-${key}" class="result ignore-color-change">
+    <div class="p-2">
+      <h5>${title}</h5>
+      <p class="m-0 text-secondary">${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+  </a>
+</script>
+
+<script>
+  (function() {
+    var fragmentName = "nav";
+    window.syna.api.register('search', 'search-' + fragmentName, {
+      searchInput: `#search-query-${fragmentName}`,
+      resultsContainer: `#search-results-${fragmentName}`,
+      template: `#search-result-template-${fragmentName}`,
+      noResults: `#search-no-results-template-${fragmentName}`,
+      empty: `#search-empty-template-${fragmentName}`,
+    });
+
+    var resultsContainer = document.querySelector(`#${fragmentName} .search-results-container`)
+    document.querySelector(`#search-query-${fragmentName}`).addEventListener('input', function(e) {
+      if (e.target.value.length) {
+        resultsContainer.classList.add('show');
+      } else {
+        resultsContainer.classList.remove('show');
+      }
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!document.querySelector(`#${fragmentName} .search-container`).contains(e.target)) {
+        document.querySelector(`#search-query-${fragmentName}`).value = '';
+        resultsContainer.classList.remove('show');
+      }
+    });
+  })();
+</script>
+<style>
+  :root {
+    --header-height: 56px;
+  }
+</style>
+
+<!-- Content -->
+<section id="index" class="fragment content-fragment">
+    <div class="container-fluid bg-light overlay">
+    <div class="container py-5 overlay">
+<div class="row">
+      <article class="col-md-12">
+  <div class="title-container row mx-0">
+    <div class="title col px-0 text-center text-body">
+      <h2>Nav</h2>
+    </div>
+  </div>
+<div class="content-body col-12 content px-0 text-body"><p>The navbar of your website</p>
+<p>Navbar fragment can show a logo/image, a menu with support for external links
+and a special icon link useful for linking to Github or Gitlab.</p>
+<p><strong>Note:</strong> Search doesn&rsquo;t look very good in this page because there are two
+navbars in the page which is not expected. Please use search in other pages.</p></div>
+    </article>
+  </div>
+    </div>
+    </div>
+</section>
+<!-- Navigation --><nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy bg-secondary navbar-light" id="nav-example" role="navigation">
+  <div class="container">
+      <a class="navbar-brand py-0" href="/#">
+        <img src="/images/logo.svg" height="35" class="d-inline-block align-top" alt="Syna">
+      </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="navbar-collapse justify-content-between collapse show" id="navbarCollapse">
+      <ul class="navbar-nav"><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/"
+                >
+                Home
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/fragments"
+                >
+                Fragments
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/docs"
+                >
+                Docs
+              </a>
+              
+            </li><li class="nav-item ">
+              <a
+                  class="nav-link"
+                
+                  href="/about"
+                >
+                About
+              </a>
+              
+            </li>
+      </ul>
+        <div class="search-container position-relative">
+          <form action="/search" class="my-0">
+            <div class="input-group my-0">
+              <input type="text" class="form-control py-1" id="search-query-nav-example" name="s" placeholder="Search...">
+              <div class="input-group-append">
+                <button class="btn btn-primary" title="Search"><i class="fa fa-search"></i></button>
+              </div>
+            </div>
+          </form>
+          <div class="search-results-container">
+            <div class="col p-0">
+              <div id="search-results-nav-example" class="col px-0 results"></div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </div>
+    <div class="d-none d-lg-block pl-auto">
+      <a class="btn btn-light ignore-color-change" href="https://github.com/okkur/syna" role="button" title="Github">
+        <i class="fab fa-github mr-2"></i>
+        Star
+      </a>
+    </div>
+</nav>
+
+  <nav aria-label="breadcrumb" class="overlay navbar breadcrumb-container navbar-expand-lg pt-2 bg-light navbar-light" id="nav-example-breadcrumb">
+    <div class="container">
+      <ol class="breadcrumb mb-0 py-1"><li class="breadcrumb-item active"ZgotmplZ>
+                <a href="/fragments/">Fragments showcase</a>
+            </li><li class="breadcrumb-item active">Nav
+            </li></ol>
+    </div>
+  </nav>
+<div class="scroll-to-top bg-primary has-font-icon"
+  title="Back to top"
+  ><i class="fas fa-angle-up"></i><span class="sr-only">Back to top</span>
+</div>
+
+<script id="search-empty-template-nav-example" type="text/x-js-template">
+  <p class="p-2">Please enter a word or phrase above</p>
+</script>
+<script id="search-no-results-template-nav-example" type="text/x-js-template">
+  <p class="p-2">No matches found</p>
+</script>
+<script id="search-result-template-nav-example" type="text/x-js-template">
+  <a href="${link}" id="summary-${key}" class="result ignore-color-change">
+    <div class="p-2">
+      <h5>${title}</h5>
+      <p class="m-0 text-body">${snippet}</p>
+      ${ isset tags }<p>Tags: ${tags}</p>${ end }
+      ${ isset categories }<p>Categories: ${categories}</p>${ end }
+    </div>
+  </a>
+</script>
+
+<script>
+  (function() {
+    var fragmentName = "nav-example";
+    window.syna.api.register('search', 'search-' + fragmentName, {
+      searchInput: `#search-query-${fragmentName}`,
+      resultsContainer: `#search-results-${fragmentName}`,
+      template: `#search-result-template-${fragmentName}`,
+      noResults: `#search-no-results-template-${fragmentName}`,
+      empty: `#search-empty-template-${fragmentName}`,
+    });
+
+    var resultsContainer = document.querySelector(`#${fragmentName} .search-results-container`)
+    document.querySelector(`#search-query-${fragmentName}`).addEventListener('input', function(e) {
+      if (e.target.value.length) {
+        resultsContainer.classList.add('show');
+      } else {
+        resultsContainer.classList.remove('show');
+      }
+    });
+
+    document.addEventListener('click', function(e) {
+      if (!document.querySelector(`#${fragmentName} .search-container`).contains(e.target)) {
+        document.querySelector(`#search-query-${fragmentName}`).value = '';
+        resultsContainer.classList.remove('show');
+      }
+    });
+  })();
+</script>
+<!-- Content -->
+<section id="code-nav-example" class="fragment content-fragment">
+    <div class="container-fluid bg-light overlay">
+    <div class="container py-5 overlay">
+<div class="row">
+      <article class="col-md-12">
+<div class="content-body col-12 content px-0 text-body"><details><summary>Code</summary>
+<pre tabindex="0"><code>+++
+fragment = &quot;nav&quot;
+#disabled = true
+date = &quot;2018-05-17&quot;
+weight = 110
+background = &quot;secondary&quot;
+search = true
+#sticky = true # Default is false
+
+[breadcrumb]
+  display = true # Default value is false
+  #level = 0 # Default is 1
+  background = &quot;light&quot;
+
+# Branding options
+[asset]
+  image = &quot;logo.svg&quot;
+  text = &quot;Syna&quot;
+
+[repo_button]
+  url = &quot;https://github.com/okkur/syna&quot;
+  text = &quot;Star&quot; # default: &quot;Star&quot;
+  icon = &quot;fab fa-github&quot; # defaults: &quot;fab fa-github&quot;
++++
+</code></pre></details>
+</div>
+    </article>
+  </div>
+    </div>
+    </div>
+</section>
+
+<!-- Content -->
+<section id="docs" class="fragment content-fragment">
+    <div class="container-fluid bg-light overlay">
+    <div class="container py-5 overlay">
+<div class="row"><div class="content-sidebar col-md-3 pb-4 px-md-0 order-0">
+          <div class="sticky-top pt-3"><div class="content-sidebar-body col-12 px-0 text-left text-body">
+<!--  -->
+<section id="" class="fragment ">
+    <div class="container p-0 ">
+<div class="toc"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="/fragments/nav/#note">Note</a></li>
+        <li><a href="/fragments/nav/#menus">Menus</a></li>
+        <li><a href="/fragments/nav/#variables">Variables</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+    </div>
+</section>
+
+        </div>
+          </div> </div>
+      <article class="col-md-9">
+  <div class="title-container row mx-0">
+    <div class="title col px-0 text-center text-body">
+      <h2>Documentation</h2>
+    </div>
+  </div>
+<div class="content-body col-12 content px-0 text-body"><h3 id="note">Note</h3>
+<p>Use one instance of this fragment per page. Running more might lead to unexpected issues.</p>
+<h3 id="menus">Menus</h3>
+<ul>
+<li>
+<p>.Site.Menus.main</p>
+<p><strong>Note:</strong> Menus displayed in the nav fragment can be nested, in which case the nested menus are displayed in a dropdown. Please see &ldquo;<a href="https://gohugo.io/content-management/menus/#nesting">nesting</a>&rdquo; section of Menus documentation in Hugo documentation.</p>
+<pre tabindex="0"><code># config.toml
+
+[[menu.main]]
+  url = &quot;/about&quot;
+  name = &quot;About&quot;
+  weight = 10
+  identifier = &quot;about&quot;
+
+[[menu.main]]
+  url = &quot;/about/team&quot;
+  name = &quot;Our team&quot;
+  weight = 10
+  parent = &quot;about&quot;
+
+[[menu.main]]
+  url = &quot;/about/office&quot;
+  name = &quot;Our office&quot;
+  weight = 20
+  parent = &quot;about&quot;
+</code></pre></li>
+</ul>
+<h3 id="variables">Variables</h3>
+<h4 id="search">search</h4>
+<p><em>type: boolean</em><br>
+<em>default: false</em></p>
+<p>If set to <code>true</code>, search is enabled within the navbar.<br>
+<strong>Note:</strong> The additional input field used for search will alter the menu layout.</p>
+<h4 id="sticky">sticky</h4>
+<p><em>type: boolean</em><br>
+<em>default: false</em></p>
+<p>If set to <code>true</code>, navbar will stick to the top of the screen whenever page scrolls past it.</p>
+<h4 id="prepend-postpend">prepend, postpend</h4>
+<p><em>type: array of objects</em></p>
+<p>Menu like objects that are used to add menus before and after the main menu.</p>
+<h5 id="prependpostpendurl">prepend/postpend.url</h5>
+<p><em>type: string</em></p>
+<h5 id="prependpostpendname">prepend/postpend.name</h5>
+<p><em>type: string</em></p>
+<h4 id="breadcrumb">breadcrumb</h4>
+<p><em>type: object</em></p>
+<p>If object is set, breadcrumbs will be shown under the navbar.</p>
+<h5 id="breadcrumbdisplay">breadcrumb.display</h5>
+<p><em>type: boolean</em><br>
+<em>default: true</em></p>
+<h5 id="breadcrumblevel">breadcrumb.level</h5>
+<p><em>type: number</em><br>
+<em>default: 1</em></p>
+<p>Define the section level the breadcrumb will start being shown.</p>
+<p>The default value <code>1</code> would lead to the following being defined:</p>
+<pre tabindex="0"><code>content/_index # level 0, not shown
+content/blog/_index # level 1, shown
+content/blog/article-1 # level 2, shown
+</code></pre><h5 id="breadcrumbbackground">breadcrumb.background</h5>
+<p><em>type:  string</em><br>
+<em>recommended: primary, secondary, white, light, dark</em><br>
+<em>accepted values: primary, secondary, white, light, dark, warning, success, danger, info, transparent</em></p>
+<h4 id="asset">asset</h4>
+<p><em>type: <a href="/docs/global-variables/#asset">asset object</a></em></p>
+<p>Asset will be shown as a clickable logo directing to the main page.</p>
+<h4 id="repo_button">repo_button</h4>
+<p><em>type: object</em></p>
+<p>Enable a button on the top right navbar. Usually used to link to your repository such as Github or Gitlab.<br>
+The icon can be customized via <code>repo_button.icon</code>.</p>
+<h5 id="repo_buttonurl">repo_button.url</h5>
+<p><em>type: string</em></p>
+<h5 id="repo_buttontext">repo_button.text</h5>
+<p><em>type: string</em><br>
+<em>default: star</em></p>
+<h5 id="repo_buttonicon">repo_button.icon</h5>
+<p><em>type: string</em><br>
+<em>default: fab fa-github</em></p>
+<p><a href="/docs/global-variables/">Global variables</a> are documented as well and have been omitted from this page.</p>
+</div>
+    </article>
+  </div>
+    </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<section id="footer" class="fragment ">
+    <div class="container-fluid bg-secondary ">
+    <div class="container py-5 ">
+
+  <div class="row">
+    <div class="col-md m-2 text-body">
+        <h4></h4>
+        <a href="">
+          <img src="/images/logo.svg" class="img-fluid w-50" alt="Logo Subtext">
+        </a>
+        <div class="row justify-content-left ml-0">
+            <span class="fa-stack fa-2x mt-3 mr-1" title="github">
+              <a href="https://git.okkur.org/syna" class="ignore-color-change">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-2x fa-stack-1x fa-fw text-light"></i>
+                <span class="sr-only">github</span>
+              </a>
+            </span>
+        </div>
+    </div>
+    <div class="col-md m-2 text-body">
+        <h4>Further Resources</h4>
+        <ul class="nav flex-column">
+              <li class="nav-item">
+                <a class="nav-link p-0 display-5" href="https://syna.okkur.org/demo">Getting Started</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link p-0 display-5" href="https://about.okkur.org/">About Okkur Labs</a>
+              </li>
+        </ul>
+    </div>
+    <div class="col-md m-2 text-body">
+        <div><h4 id="syna-theme">Syna Theme</h4>
+<p>Highly customizable open source theme for Hugo based static websites</p>
+</div>
+    </div>
+  </div>
+    </div>
+    </div>
+</section>
+
+
+<!-- Copyright -->
+<footer class="overlay fragment container-fluid bg-dark" id="copyright">
+  <div class="container">
+    <div class="row py-3">
+      <div class="col-md">
+        <div class="row mx-0 my-2 justify-content-center text-center text-lg-none text-white">
+          <div class="row mx-0 mr-lg-auto justify-content-center">
+              <div class="col-auto px-1 copyright-legal">© Copyright&nbsp;2022</div>
+              <div class="col-auto px-0 copyright-by"> by  Okkur Labs</div>
+          </div>
+        </div>
+      </div>
+        <div class="col-auto mx-auto">
+          <div class="row mx-0 navbar-text text-center text-white">Website based on<a href="https://syna.okkur.org" class="ml-1">Syna</a>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="row mx-0 my-2 justify-content-center">
+            <ul class="nav ml-lg-auto">
+                <li class="nav-item">
+                  <a class="nav-link py-0" href="/about"
+                  >About Us</a>
+                </li>
+            </ul>
+          </div>
+        </div>
+    </div>
+  </div>
+</footer>
+<div id="react"></div>
+
+    <!-- Theme Code -->
+      <script async defer src="/scripts/syna-main.min.0fee75bda576b036c6916366c93862bee0f9e51fac1be5360918faac938026cb.js"></script>
+      <script async defer src="/scripts/syna-search.min.3df04a93505fbf6586f20dce06e98593a7ecc5454898566698467074b8afce39.js"></script>
+      <script async defer src="/scripts/syna-content.min.6153911e04fccadd0dba2ac14e0506d77050bc7d6cae8b35ef59ac87ad2db515.js"></script>
+      <script async defer src="/scripts/syna-search.min.3df04a93505fbf6586f20dce06e98593a7ecc5454898566698467074b8afce39.js"></script>
+      <script async defer src="/scripts/syna-content.min.6153911e04fccadd0dba2ac14e0506d77050bc7d6cae8b35ef59ac87ad2db515.js"></script>
+      <script async defer src="/scripts/syna-content.min.6153911e04fccadd0dba2ac14e0506d77050bc7d6cae8b35ef59ac87ad2db515.js"></script>
+      <style>
+  [id^="code-"] .container-fluid {
+    background: #efefef !important;
+  }
+</style>
+
+  </body>
+</html>
