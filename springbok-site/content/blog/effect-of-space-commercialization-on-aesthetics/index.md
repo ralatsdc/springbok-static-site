@@ -5,6 +5,7 @@ fragment = "content"
 weight = 1
 important = "true"
 subtitle = "William Spear"
+draft = "true"
 
 [asset]
     image = "astronaut.jpg"
