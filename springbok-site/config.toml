@@ -1,5 +1,6 @@
 # Site settings
-baseurl = "/"
+baseurl = ""
+relativeURLs = "True"
 languageCode = "en-us"
 title = "Springbok LLC"
 theme = "syna"
