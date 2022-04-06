@@ -1,6 +1,5 @@
 # Site settings
 baseurl = ""
-relativeURLs = "True"
 languageCode = "en-us"
 title = "Springbok LLC"
 theme = "syna"
@@ -127,7 +126,7 @@ weight = 40
 weight = 10
 name = "linkedin"
 pre = "fab fa-linkedin-in"
-url = "https://www.linkedin.com/company/springbok/"
+url = "https://www.linkedin.com/company/springbok"
 
 #[[menu.footer_social]]
 #  weight = 20
