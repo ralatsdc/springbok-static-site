@@ -2,7 +2,7 @@
 title = "Our Dunning-Kruger Roller-Coaster"
 date = "2022-04-06"
 fragment = "content"
-weight = 1
+weight = 10
 important = "true"
 subtitle = "Raymond LeClair"
 

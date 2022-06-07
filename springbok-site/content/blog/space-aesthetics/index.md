@@ -2,7 +2,7 @@
 title = "Aesthetics of Commercialization in Space"
 date = "2022-03-11"
 fragment = "content"
-weight = 1
+weight = 10
 important = "true"
 draft = "false"
 subtitle = "William Spear"
