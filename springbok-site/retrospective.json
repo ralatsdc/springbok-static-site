@@ -1,0 +1,22 @@
+{
+    "bioinformatics": {
+        "period": 6,
+        "window": 8,
+        "span": 2
+    },
+    "space": {
+        "period": 6,
+        "window": 8,
+        "span": 2
+    },
+    "synthetic-biology": {
+        "period": 6,
+        "window": 8,
+        "span": 2
+    },
+    "machine-learning": {
+        "period": 6,
+        "window": 8,
+        "span": 2
+    }
+}
