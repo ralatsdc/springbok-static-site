@@ -2,7 +2,7 @@
 title = "Light is the Task where Many Share the Toil"
 date = "2022-02-18"
 fragment = "content"
-weight = 10
+weight = 100
 important = "true"
 subtitle = "Raymond LeClair"
 

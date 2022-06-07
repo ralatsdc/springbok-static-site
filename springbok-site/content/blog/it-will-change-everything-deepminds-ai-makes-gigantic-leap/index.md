@@ -3,7 +3,7 @@ title = "'It will change everything': DeepMind's AI makes gigantic leap ..."
 date = "2020-11-30"
 canonicalUrl = "https://www.nature.com/articles/d41586-020-03348-4"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "it-will-change-everything-deepminds-ai-makes-gigantic-leap.jpeg"

@@ -3,7 +3,7 @@ title = "Machine Learning Tracks EHR Data to Predict Disease Risk"
 date = "2020-06-19"
 canonicalUrl = "https://healthitanalytics.com/news/machine-learning-tracks-ehr-data-to-predict-disease-risk"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "machine-learning-tracks-ehr-data-to-predict-disease-risk.jpeg"

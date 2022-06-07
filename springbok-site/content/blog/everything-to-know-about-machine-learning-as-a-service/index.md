@@ -3,7 +3,7 @@ title = "Everything to Know About Machine Learning as a Service ..."
 date = "2020-12-01"
 canonicalUrl = "https://www.analyticsinsight.net/everything-to-know-about-machine-learning-as-a-service-mlaas/"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "everything-to-know-about-machine-learning-as-a-service.jpeg"

@@ -3,7 +3,7 @@ title = "New salmonella proteins discovered"
 date = "2020-12-16"
 canonicalUrl = "https://www.eurekalert.org/pub_releases/2020-12/uow-nsp121620.php"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "new-salmonella-proteins-discovered.jpeg"

@@ -3,7 +3,7 @@ title = "Armstrong Satellite NFT Launch with Space Force"
 date = "2021-06-14"
 canonicalUrl = "https://www.businesswire.com/news/home/20210614005522/en/Armstrong-Satellite-NFT-Launch-with-Space-Force"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "armstrong-satellite-nft-launch-with-space-force.jpeg"

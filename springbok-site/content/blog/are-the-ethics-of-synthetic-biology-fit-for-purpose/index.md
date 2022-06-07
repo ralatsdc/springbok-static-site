@@ -3,7 +3,7 @@ title = "Are the ethics of synthetic biology fit for purpose?"
 date = "2022-06-06"
 canonicalUrl = "https://phys.org/news/2022-06-ethics-synthetic-biology-purpose.html"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "are-the-ethics-of-synthetic-biology-fit-for-purpose.jpeg"

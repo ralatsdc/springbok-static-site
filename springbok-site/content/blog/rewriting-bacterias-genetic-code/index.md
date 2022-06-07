@@ -3,7 +3,7 @@ title = "Rewriting bacteria's genetic code"
 date = "2021-06-03"
 canonicalUrl = "https://cen.acs.org/biological-chemistry/synthetic-biology/Rewriting-bacterias-genetic-code/99/i21"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "rewriting-bacterias-genetic-code.jpeg"

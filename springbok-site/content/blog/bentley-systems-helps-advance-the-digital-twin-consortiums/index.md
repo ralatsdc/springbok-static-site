@@ -3,7 +3,7 @@ title = "Bentley Systems Helps Advance the Digital Twin Consortium's ..."
 date = "2020-12-15"
 canonicalUrl = "https://www.forconstructionpros.com/construction-technology/news/21207100/bentley-systems-inc-bentley-systems-helps-advance-the-digital-twin-consortiums-mission"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "bentley-systems-helps-advance-the-digital-twin-consortiums.png"

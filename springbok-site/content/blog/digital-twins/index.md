@@ -2,7 +2,7 @@
 title = "Digital Twins are Ready for Prime Time"
 date = "2021-10-27"
 fragment = "content"
-weight = 10
+weight = 100
 important = "true"
 subtitle = "Raymond LeClair"
 

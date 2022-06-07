@@ -2,7 +2,7 @@
 title = "Synthetic Biology: A Brief Overview"
 date = "2022-05-16"
 fragment = "content"
-weight = 10
+weight = 100
 important = "true"
 subtitle = "Raymond LeClair"
 

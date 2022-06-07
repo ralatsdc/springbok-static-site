@@ -2,7 +2,7 @@
 title = "The Intersection of Language and Thought"
 date = "2022-05-27"
 fragment = "content"
-weight = 10
+weight = 100
 important = "true"
 subtitle = "William Spear"
 

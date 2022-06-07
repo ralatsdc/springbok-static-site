@@ -3,7 +3,7 @@ title = "Insight's Insightful Science acquires Cytapex Bioinformatics"
 date = "2020-05-30"
 canonicalUrl = "https://privatecapitaljournal.com/insights-insightful-science-acquires-cytapex-bioinformatics/"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "insights-insightful-science-acquires-cytapex-bioinformatics.png"

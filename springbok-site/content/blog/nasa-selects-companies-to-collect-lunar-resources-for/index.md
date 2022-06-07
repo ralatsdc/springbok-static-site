@@ -3,7 +3,7 @@ title = "NASA Selects Companies to Collect Lunar Resources for ..."
 date = "2020-12-03"
 canonicalUrl = "https://www.nasa.gov/press-release/nasa-selects-companies-to-collect-lunar-resources-for-artemis-demonstrations"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "nasa-selects-companies-to-collect-lunar-resources-for.jpeg"

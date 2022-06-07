@@ -3,7 +3,7 @@ title = "Machine Learning Can Reduce Worry About Nanoparticles In ..."
 date = "2021-06-16"
 canonicalUrl = "https://today.tamu.edu/2021/06/15/machine-learning-can-reduce-worry-about-nanoparticles-in-food/"
 fragment = "content"
-weight = 10
+weight = 100
 
 [asset]
     image = "machine-learning-can-reduce-worry-about-nanoparticles-in.jpeg"
