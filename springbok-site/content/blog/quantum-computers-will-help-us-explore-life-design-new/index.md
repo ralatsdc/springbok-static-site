@@ -3,7 +3,7 @@ title = "Quantum computers will help us explore life, design new ..."
 date = "2020-06-05"
 canonicalUrl = "https://www.advancedsciencenews.com/quantum-computers-will-help-us-explore-life-design-new-drugs-and-more/"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "quantum-computers-will-help-us-explore-life-design-new.jpeg"

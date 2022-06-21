@@ -3,7 +3,7 @@ title = "How machine learning is changing business communications"
 date = "2019-12-20"
 canonicalUrl = "https://jaxenter.com/machine-learning-business-165812.html"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "how-machine-learning-is-changing-business-communications.jpeg"

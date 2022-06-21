@@ -2,7 +2,7 @@
 title = "Quantifying COVID-19 Risk"
 date = "2021-08-31"
 fragment = "content"
-weight = 100
+weight = 10
 important = "true"
 subtitle = "William Spear"
 

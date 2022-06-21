@@ -3,7 +3,7 @@ title = "The Deep Learning Market in 2022"
 date = "2022-06-01"
 canonicalUrl = "https://www.datamation.com/artificial-intelligence/deep-learning-market/"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "the-deep-learning-market-in-2022.jpeg"

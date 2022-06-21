@@ -3,7 +3,7 @@ title = "space domain awareness Archives"
 date = "2020-12-16"
 canonicalUrl = "https://spacenews.com/tag/space-domain-awareness/"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "space-domain-awareness-archives.jpeg"

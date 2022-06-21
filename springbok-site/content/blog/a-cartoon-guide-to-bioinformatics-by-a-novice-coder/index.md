@@ -3,7 +3,7 @@ title = "A cartoon guide to bioinformatics by a novice coder"
 date = "2021-06-01"
 canonicalUrl = "https://www.nature.com/articles/d41586-021-01485-y"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "a-cartoon-guide-to-bioinformatics-by-a-novice-coder.jpeg"

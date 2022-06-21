@@ -2,7 +2,7 @@
 title = "10,000 Hours is a Lie"
 date = "2022-04-15"
 fragment = "content"
-weight = 100
+weight = 10
 important = "true"
 draft = "false"
 subtitle = "William Spear"

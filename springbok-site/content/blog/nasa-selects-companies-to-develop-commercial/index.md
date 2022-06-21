@@ -3,7 +3,7 @@ title = "NASA Selects Companies to Develop Commercial ..."
 date = "2021-12-02"
 canonicalUrl = "https://www.nasa.gov/press-release/nasa-selects-companies-to-develop-commercial-destinations-in-space"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "nasa-selects-companies-to-develop-commercial.jpeg"

@@ -3,7 +3,7 @@ title = "The Space Force has gone from joke to reality | TheHill"
 date = "2019-12-16"
 canonicalUrl = "https://thehill.com/opinion/technology/474713-the-space-force-has-gone-from-joke-to-reality"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "the-space-force-has-gone-from-joke-to-reality-thehill.png"

@@ -3,7 +3,7 @@ title = "Jeff Bezos is going to space on first crewed flight of rocket"
 date = "2021-06-07"
 canonicalUrl = "https://www.cnn.com/2021/06/07/tech/jeff-bezos-space-blue-origin-new-shepard-flight-scn/index.html"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "jeff-bezos-is-going-to-space-on-first-crewed-flight-of-rocket.jpeg"

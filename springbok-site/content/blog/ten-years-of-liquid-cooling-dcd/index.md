@@ -3,7 +3,7 @@ title = "Ten years of liquid cooling - DCD"
 date = "2019-06-14"
 canonicalUrl = "https://www.datacenterdynamics.com/en/opinions/ten-years-liquid-cooling/"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "ten-years-of-liquid-cooling-dcd.jpeg"

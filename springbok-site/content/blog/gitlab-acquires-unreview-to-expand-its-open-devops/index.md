@@ -3,7 +3,7 @@ title = "GitLab Acquires UnReview to Expand its Open DevOps ..."
 date = "2021-06-02"
 canonicalUrl = "https://www.globenewswire.com/news-release/2021/06/02/2240671/0/en/GitLab-Acquires-UnReview-to-Expand-its-Open-DevOps-Platform-with-Machine-Learning-Capabilities.html"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "gitlab-acquires-unreview-to-expand-its-open-devops.png"

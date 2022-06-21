@@ -3,7 +3,7 @@ title = "BAE Gets $249M Army Modification for Howitzer Systems ..."
 date = "2019-12-16"
 canonicalUrl = "https://www.govconwire.com/2019/12/bae-gets-249m-army-modification-for-howitzer-systems-delivery/"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "bae-gets-249m-army-modification-for-howitzer-systems.jpeg"

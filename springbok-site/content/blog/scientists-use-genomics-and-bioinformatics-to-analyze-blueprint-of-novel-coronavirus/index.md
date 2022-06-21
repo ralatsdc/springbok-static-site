@@ -3,7 +3,7 @@ title = "Scientists use genomics and bioinformatics to analyze blueprint of nove
 date = "2020-04-21"
 canonicalUrl = "https://www.news-medical.net/news/20200421/Scientists-use-genomics-and-bioinformatics-to-analyze-blueprint-of-novel-coronavirus.aspx"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "scientists-use-genomics-and-bioinformatics-to-analyze-blueprint-of-novel-coronavirus.jpeg"

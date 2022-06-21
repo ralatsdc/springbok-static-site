@@ -3,7 +3,7 @@ title = "Successful investors are using big data and machine learning ..."
 date = "2020-06-04"
 canonicalUrl = "https://financialpost.com/personal-finance/taxes/successful-investors-are-using-big-data-and-machine-learning-now-you-can-too"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "placeholder.png"

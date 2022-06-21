@@ -3,7 +3,7 @@ title = "Space Junk Hit a Robotic Arm on the International Space Station"
 date = "2021-06-02"
 canonicalUrl = "https://www.smithsonianmag.com/smart-news/space-junk-hit-robotic-arm-international-space-station-180977878/"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "space-junk-hit-a-robotic-arm-on-the-international-space-station.jpeg"

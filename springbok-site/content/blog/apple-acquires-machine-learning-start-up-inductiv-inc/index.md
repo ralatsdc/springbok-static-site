@@ -3,7 +3,7 @@ title = "Apple acquires machine learning start-up Inductiv Inc"
 date = "2020-05-28"
 canonicalUrl = "https://www.siliconrepublic.com/business/apple-acquired-inductiv-machine-learning-siri-ai"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "apple-acquires-machine-learning-start-up-inductiv-inc.jpeg"

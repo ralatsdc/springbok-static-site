@@ -3,7 +3,7 @@ title = "Machine Learning Algorithm Accelerates Diagnosis of Gut ..."
 date = "2019-06-18"
 canonicalUrl = "https://healthitanalytics.com/news/machine-learning-algorithm-accelerates-diagnosis-of-gut-disease"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "machine-learning-algorithm-accelerates-diagnosis-of-gut.jpeg"

@@ -3,7 +3,7 @@ title = "MultiBrief: How to use digital twin technology to revolutionize ..."
 date = "2019-12-16"
 canonicalUrl = "http://exclusive.multibriefs.com/content/how-to-use-digital-twins-to-revolutionize-your-marketing-approach"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "multibrief-how-to-use-digital-twin-technology-to-revolutionize.jpeg"

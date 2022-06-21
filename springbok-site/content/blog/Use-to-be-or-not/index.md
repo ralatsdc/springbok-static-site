@@ -2,7 +2,7 @@
 title = "Use 'to be', or not?"
 date = "2022-06-10"
 fragment = "content"
-weight = 100
+weight = 10
 important = "true"
 draft = "false"
 subtitle = "Raymond LeClair"

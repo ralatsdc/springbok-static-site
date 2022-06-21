@@ -3,7 +3,7 @@ title = "Accelerating Drug Discovery Through Synthetic Biology"
 date = "2020-05-27"
 canonicalUrl = "https://www.technologynetworks.com/drug-discovery/articles/accelerating-drug-discovery-through-synthetic-biology-335325"
 fragment = "content"
-weight = 100
+weight = 10
 
 [asset]
     image = "accelerating-drug-discovery-through-synthetic-biology.jpeg"
