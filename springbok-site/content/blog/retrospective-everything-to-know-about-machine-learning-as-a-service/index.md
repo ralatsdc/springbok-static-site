@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "everything-to-know-about-machine-learning-as-a-service.jpeg"
+    image = "placeholder.png"
 +++
 
 Machine learning joins mathematics, statistics, and artificial intelligence 

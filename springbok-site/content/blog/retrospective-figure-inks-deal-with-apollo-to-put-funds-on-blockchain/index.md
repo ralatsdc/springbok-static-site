@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "figure-inks-deal-with-apollo-to-put-funds-on-blockchain.jpeg"
+    image = "placeholder.png"
 +++
 
 Figure founded the Provenance blockchain, which is used for various 

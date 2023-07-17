@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "iowa-states-geetu-tuteja-selected-for-pew-scholars.jpeg"
+    image = "placeholder.png"
 +++
 
 BIOINFORMATICS · BIOMECHANICS/BIOPHYSICS · 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "deepmind-co-founder-leaves-google-after-a-rocky-tenure.jpeg"
+    image = "placeholder.png"
 +++
 
 Inspired by digital art generators like DALL-E, biologists are building 

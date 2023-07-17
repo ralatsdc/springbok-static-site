@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "workshop-on-molecular-biology-bioinformatics-concludes-at.jpeg"
+    image = "placeholder.png"
 +++
 
 The technical session-I on Bioinformatics- basics to advances in the genome 

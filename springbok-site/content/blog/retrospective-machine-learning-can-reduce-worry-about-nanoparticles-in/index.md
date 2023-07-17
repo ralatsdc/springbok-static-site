@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "machine-learning-can-reduce-worry-about-nanoparticles-in.jpeg"
+    image = "placeholder.png"
 +++
 
 Machine learning algorithms developed by researchers can predict the 

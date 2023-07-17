@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "jeff-bezos-donates-200-million-to-air-and-space-museum-in.jpeg"
+    image = "placeholder.png"
 +++
 
 The announcement of the donation comes less than a week before Bezos, who 

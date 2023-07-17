@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "crypto-needs-a-new-push-radixs-intuitive-new-smart-contract-language-might-just-be-it.jpeg"
+    image = "placeholder.png"
 +++
 
 Smart contracts are self-executing pieces of code that execute when certain 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "cardano-smart-contract-will-be-compatible-with-all.jpeg"
+    image = "placeholder.png"
 +++
 
 IOHK is launching two developer environments to enable developers to write, 

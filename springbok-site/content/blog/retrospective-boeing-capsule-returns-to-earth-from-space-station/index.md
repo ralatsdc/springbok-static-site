@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "boeing-capsule-returns-to-earth-from-space-station.jpeg"
+    image = "placeholder.png"
 +++
 
 Boeing's crew taxi returned to Earth from the International Space Station 

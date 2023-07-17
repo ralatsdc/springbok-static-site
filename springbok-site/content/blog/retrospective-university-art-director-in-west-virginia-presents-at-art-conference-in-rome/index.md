@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "university-art-director-in-west-virginia-presents-at-art-conference-in-rome.jpeg"
+    image = "placeholder.png"
 +++
 
 HUNTINGTON, WV (WOWK)– A Marshall University art director was invited to 

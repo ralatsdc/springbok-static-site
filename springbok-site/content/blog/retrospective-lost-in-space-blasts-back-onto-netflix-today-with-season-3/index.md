@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "lost-in-space-blasts-back-onto-netflix-today-with-season-3.jpeg"
+    image = "placeholder.png"
 +++
 
 It seems that good things do indeed come to those who wait, and we're 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "jeremy-o-harris-and-new-york-theatre-workshop-announce.jpeg"
+    image = "placeholder.png"
 +++
 
 In this inaugural year, the commissions will be awarded to two generative 

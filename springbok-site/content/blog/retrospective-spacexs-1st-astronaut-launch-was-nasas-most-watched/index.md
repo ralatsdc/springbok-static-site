@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "spacexs-1st-astronaut-launch-was-nasas-most-watched.jpeg"
+    image = "placeholder.png"
 +++
 
 ... Bob Behnken and Doug Hurley to the International Space Station (ISS). 

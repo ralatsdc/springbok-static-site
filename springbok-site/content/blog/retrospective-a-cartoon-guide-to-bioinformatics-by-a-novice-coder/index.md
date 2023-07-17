@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "a-cartoon-guide-to-bioinformatics-by-a-novice-coder.jpeg"
+    image = "placeholder.png"
 +++
 
 Ed Himelblau was a cartoonist before he learnt to write code. Now, the 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "miamis-crypto-loving-mayor-visits-the-gateway-a-five-day-nft-festival.jpeg"
+    image = "placeholder.png"
 +++
 
 ... which included Porsche; the generative art platform Art Blocks; RTFKT, 

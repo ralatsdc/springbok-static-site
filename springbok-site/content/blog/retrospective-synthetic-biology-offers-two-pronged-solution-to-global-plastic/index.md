@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "synthetic-biology-offers-two-pronged-solution-to-global-plastic.jpeg"
+    image = "placeholder.png"
 +++
 
 Synthetic biology can help control the growing global problem of plastic 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "art-meet-science-google-is-here-to-help-budding-poets-sort.jpeg"
+    image = "placeholder.png"
 +++
 
 One model, a generative model, was trained on classic poetry in order to 

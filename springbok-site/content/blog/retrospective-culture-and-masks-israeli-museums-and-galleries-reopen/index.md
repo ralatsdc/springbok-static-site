@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "culture-and-masks-israeli-museums-and-galleries-reopen.jpeg"
+    image = "placeholder.png"
 +++
 
 While cultural establishments such as museums and art galleries have been 

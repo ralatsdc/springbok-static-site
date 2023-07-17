@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "dead-space-remake-the-final-preview.jpeg"
+    image = "placeholder.png"
 +++
 
 In many ways Dead Space is a purist's remake; I'd estimate that around 85% 

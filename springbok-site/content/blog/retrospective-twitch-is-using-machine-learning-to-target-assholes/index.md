@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "twitch-is-using-machine-learning-to-target-assholes.jpeg"
+    image = "placeholder.png"
 +++
 
 Suspicious User Detection, powered by machine learning, is here to help you 

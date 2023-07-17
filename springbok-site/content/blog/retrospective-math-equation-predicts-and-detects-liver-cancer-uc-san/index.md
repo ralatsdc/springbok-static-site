@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "math-equation-predicts-and-detects-liver-cancer-uc-san.jpeg"
+    image = "placeholder.png"
 +++
 
 By combining RNA sequencing, bioinformatics and mathematical modeling, 

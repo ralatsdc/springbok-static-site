@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "using-machine-learning-to-reduce-burden-on-infection.jpeg"
+    image = "placeholder.png"
 +++
 
 An explanatory machine-learning model (random forest) and an easy-to-use 

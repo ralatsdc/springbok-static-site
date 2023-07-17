@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "mark-cuban-what-i-look-at-when-comparing-blockchains-like-bitcoin-and-ethereum.jpeg"
+    image = "placeholder.png"
 +++
 
 Cuban is referring to the capabilities of each blockchain beyond speed and 

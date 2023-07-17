@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "ai-machine-learning-tools-help-predict-covid-19-outcomes.jpeg"
+    image = "placeholder.png"
 +++
 
 As cases soar across the country, researchers are leveraging the power of 

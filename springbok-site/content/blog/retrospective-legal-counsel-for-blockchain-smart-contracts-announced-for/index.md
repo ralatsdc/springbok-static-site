@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "legal-counsel-for-blockchain-smart-contracts-announced-for.png"
+    image = "placeholder.png"
 +++
 
 ... Wurtz & Associates will provide oversight and facilitation of the 

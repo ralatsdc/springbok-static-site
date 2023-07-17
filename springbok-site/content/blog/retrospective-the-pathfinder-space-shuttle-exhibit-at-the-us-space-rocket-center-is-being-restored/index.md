@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-pathfinder-space-shuttle-exhibit-at-the-us-space-rocket-center-is-being-restored.jpeg"
+    image = "placeholder.png"
 +++
 
 HUNTSVILLE, Ala — The multi-year restoration project of the Pathfinder 

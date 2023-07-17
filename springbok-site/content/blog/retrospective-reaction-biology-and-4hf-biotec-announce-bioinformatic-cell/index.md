@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "reaction-biology-and-4hf-biotec-announce-bioinformatic-cell.jpeg"
+    image = "placeholder.png"
 +++
 
 19, 2020 /PRNewswire/ -- Reaction Biology, a drug discovery CRO with 

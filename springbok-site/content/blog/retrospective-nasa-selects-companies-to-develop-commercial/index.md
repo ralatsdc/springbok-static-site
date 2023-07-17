@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nasa-selects-companies-to-develop-commercial.jpeg"
+    image = "placeholder.png"
 +++
 
 Starlab, from Nanoracks, Voyager Space, and Lockheed Martin, is a 

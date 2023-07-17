@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "forty-accomplished-young-scientists-named-finalists-in-the.jpeg"
+    image = "placeholder.png"
 +++
 
 ... chemistry, computational biology and bioinformatics, computer science, 

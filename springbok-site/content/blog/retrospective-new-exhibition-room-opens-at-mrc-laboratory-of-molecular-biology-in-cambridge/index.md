@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "new-exhibition-room-opens-at-mrc-laboratory-of-molecular-biology-in-cambridge.jpeg"
+    image = "placeholder.png"
 +++
 
 A gloomy and little-used meeting room at the MRC Laboratory of Molecular 

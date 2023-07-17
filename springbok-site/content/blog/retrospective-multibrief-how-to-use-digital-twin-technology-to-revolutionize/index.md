@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "multibrief-how-to-use-digital-twin-technology-to-revolutionize.jpeg"
+    image = "placeholder.png"
 +++
 
 Digital twin technology can be an incredible boon to any online marketer. 

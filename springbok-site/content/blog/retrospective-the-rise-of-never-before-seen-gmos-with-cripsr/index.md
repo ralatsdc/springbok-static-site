@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-rise-of-never-before-seen-gmos-with-cripsr.jpeg"
+    image = "placeholder.png"
 +++
 
 “Ask them to give you an affidavit that they aren't using ingredients 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "quantum-computers-will-help-us-explore-life-design-new.jpeg"
+    image = "placeholder.png"
 +++
 
 New quantum algorithms will have dramatic impact in computational molecular 

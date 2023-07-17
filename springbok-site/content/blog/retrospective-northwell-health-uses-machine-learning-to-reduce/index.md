@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "northwell-health-uses-machine-learning-to-reduce.jpeg"
+    image = "placeholder.png"
 +++
 
 Northwell Health uses machine learning to reduce readmissions by nearly 

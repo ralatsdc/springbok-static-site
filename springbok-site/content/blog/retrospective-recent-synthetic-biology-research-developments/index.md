@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "recent-synthetic-biology-research-developments.jpeg"
+    image = "placeholder.png"
 +++
 
 Synthetic biology involves the creation or redesign of biological systems 

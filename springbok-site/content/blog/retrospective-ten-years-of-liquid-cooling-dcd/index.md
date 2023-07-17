@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "ten-years-of-liquid-cooling-dcd.jpeg"
+    image = "placeholder.png"
 +++
 
 ... Density and Space Efficiency. 10 Jun 2021. Case Study: Thésée 

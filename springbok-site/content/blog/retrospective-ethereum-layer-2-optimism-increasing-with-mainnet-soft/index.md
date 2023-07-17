@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "ethereum-layer-2-optimism-increasing-with-mainnet-soft.jpeg"
+    image = "placeholder.png"
 +++
 
 It will include two smart contracts enabling deposits on Layer 1 and ... 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "bentley-systems-helps-advance-the-digital-twin-consortiums.png"
+    image = "placeholder.png"
 +++
 
 Bentley Systems, Inc., the infrastructure engineering software company, has 

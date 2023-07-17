@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "new-salmonella-proteins-discovered.jpeg"
+    image = "placeholder.png"
 +++
 
 Global Bioinformatics Platform Market is estimated to be US$ 14.0 Billion 

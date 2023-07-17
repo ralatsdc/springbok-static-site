@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "asus-tuf-dash-f15-shows-that-thin-and-light-gaming-laptops.jpeg"
+    image = "placeholder.png"
 +++
 
 As is usual with Asus' TUF products, the Dash F15 features military-grade 

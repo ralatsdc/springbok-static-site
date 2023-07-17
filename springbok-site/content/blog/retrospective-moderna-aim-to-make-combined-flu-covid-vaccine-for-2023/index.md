@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "moderna-aim-to-make-combined-flu-covid-vaccine-for-2023.jpeg"
+    image = "placeholder.png"
 +++
 
 Biocolloidy and Epigenetics – Is “scientific revolution” a useful concept 

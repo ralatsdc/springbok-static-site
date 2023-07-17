@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "professor-saves-turtle-from-open-market-in-silchar-wins-hearts.jpeg"
+    image = "placeholder.png"
 +++
 
 This act of kindness was done by Dr Sarbani Giri, Head of the Department, 

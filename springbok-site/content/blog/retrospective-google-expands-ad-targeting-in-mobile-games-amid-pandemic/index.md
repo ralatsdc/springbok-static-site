@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "google-expands-ad-targeting-in-mobile-games-amid-pandemic.jpeg"
+    image = "placeholder.png"
 +++
 
 By Ilyse Liffreing. Published on July 12, 2021. READ THIS NEXT · Behind Ad 

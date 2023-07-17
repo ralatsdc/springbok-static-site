@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "iota-set-to-launch-decentralized-smart-contract-platform-to-expand-web3-ecosystem.jpeg"
+    image = "placeholder.png"
 +++
 
 Iota has announced the release of decentralized layer-one smart contract 

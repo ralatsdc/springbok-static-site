@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "isu-prepares-alum-basheer-becerra-to-star-in-harvard.jpeg"
+    image = "placeholder.png"
 +++
 
 in bioinformatics and integrative genomics at Harvard Medical School's 

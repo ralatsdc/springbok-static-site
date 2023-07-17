@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "armstrong-satellite-nft-launch-with-space-force.jpeg"
+    image = "placeholder.png"
 +++
 
 LOS ANGELES--(BUSINESS WIRE)--On June 17, 2021, the United States Space 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "solanas-future-uncertain-after-high-throughput-blockchain-suffers-latest-crash.jpeg"
+    image = "placeholder.png"
 +++
 
 A cellphone with a logo of Solana, a high throughput blockchain project. 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "apitech-appoints-new-general-counsel-donald-e-walther.png"
+    image = "placeholder.png"
 +++
 
 a leading provider of high-performance RF and microwave signal conditioning 

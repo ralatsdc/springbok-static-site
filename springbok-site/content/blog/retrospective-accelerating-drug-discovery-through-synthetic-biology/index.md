@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "accelerating-drug-discovery-through-synthetic-biology.jpeg"
+    image = "placeholder.png"
 +++
 
 Synthetic biology addresses this need by empowering drug discovery 

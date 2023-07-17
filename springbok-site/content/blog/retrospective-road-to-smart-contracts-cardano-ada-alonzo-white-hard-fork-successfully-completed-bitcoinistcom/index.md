@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "road-to-smart-contracts-cardano-ada-alonzo-white-hard-fork-successfully-completed-bitcoinistcom.jpeg"
+    image = "placeholder.png"
 +++
 
 Road To Smart Contracts: Cardano (ADA) Alonzo White Hard Fork ... The 

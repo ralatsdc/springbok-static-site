@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "us-needs-new-policies-with-move-to-cislunar-aerospace.jpeg"
+    image = "placeholder.png"
 +++
 
 ... interest in developing satellites for space domain awareness 

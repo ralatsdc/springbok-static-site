@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "expect-better-blockchain-games-in-2023-says-animoca-brands-ceo.jpeg"
+    image = "placeholder.png"
 +++
 
 Animoca Brands CEO Robby Yung believes we will see many great blockchain 

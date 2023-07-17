@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "aimi-press-page.png"
+    image = "placeholder.png"
 +++
 
 Generative Music Platform Aimi Announces New Breakthrough Applications For 

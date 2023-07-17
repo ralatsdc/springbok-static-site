@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "aether-biomachines-expands-board-of-directors-with.jpeg"
+    image = "placeholder.png"
 +++
 
 Aether Biomachines Expands Board of Directors with Appointment of Ginkgo 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "qa-with-storms-ceo-david-yin-navigating-the-web3.jpeg"
+    image = "placeholder.png"
 +++
 
 Instead of spending a lot of time grinding through the game and not earning 

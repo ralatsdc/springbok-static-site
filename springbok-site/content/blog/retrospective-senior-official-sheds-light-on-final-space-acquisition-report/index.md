@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "senior-official-sheds-light-on-final-space-acquisition-report.jpeg"
+    image = "placeholder.png"
 +++
 
 The report, “Alternative Acquisition System for the United States Space 

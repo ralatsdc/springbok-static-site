@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "students-publish-in-international-biology-journal-local-news.jpeg"
+    image = "placeholder.png"
 +++
 
 Articles written by the 24 students in the Andover High School BioBuilders 

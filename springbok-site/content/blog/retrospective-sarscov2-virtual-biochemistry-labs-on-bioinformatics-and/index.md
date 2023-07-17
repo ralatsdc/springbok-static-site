@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "sarscov2-virtual-biochemistry-labs-on-bioinformatics-and.jpeg"
+    image = "placeholder.png"
 +++
 
 Students are introduced to practical bioinformatics, searching the National 

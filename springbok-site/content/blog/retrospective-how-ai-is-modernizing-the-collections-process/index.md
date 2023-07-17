@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "how-ai-is-modernizing-the-collections-process.jpeg"
+    image = "placeholder.png"
 +++
 
 However, artificial intelligence and machine learning are starting to 

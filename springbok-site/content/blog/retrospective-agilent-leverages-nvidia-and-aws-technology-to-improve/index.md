@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "agilent-leverages-nvidia-and-aws-technology-to-improve.png"
+    image = "placeholder.png"
 +++
 
 Agilent Leverages NVIDIA and AWS Technology to Improve Analysis Speeds of 

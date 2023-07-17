@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nasas-james-webb-space-telescope-launch-may-slip-to.jpeg"
+    image = "placeholder.png"
 +++
 
 31) after all. Despite previous delays, progress on the highly anticipated 

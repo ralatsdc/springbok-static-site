@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "web3-gaming-studio-infinigods-launches-first-game.jpeg"
+    image = "placeholder.png"
 +++
 
 20, 2023 /PRNewswire/ -- InfiniGods, the innovative Web3 gaming studio 

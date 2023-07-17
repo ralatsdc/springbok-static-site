@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "ada-4800-smart-contracts-on-cardano.jpeg"
+    image = "placeholder.png"
 +++
 
 Cardano's numbers are these: 56 million transactions, 3.7 million wallets, 

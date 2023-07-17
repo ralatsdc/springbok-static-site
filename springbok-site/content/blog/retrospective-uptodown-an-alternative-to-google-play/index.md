@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "uptodown-an-alternative-to-google-play.jpeg"
+    image = "placeholder.png"
 +++
 
 Blockchain gaming partners add Web3 gaming DAO Ind..

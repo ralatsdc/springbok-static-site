@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "space-force-launches-space-domain-awareness-satellite.jpeg"
+    image = "placeholder.png"
 +++
 
 Space Force Launches 'Space Domain Awareness Satellite' With Pegasus XL 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-pivot-to-web3-is-going-to-get-people-hurt.jpeg"
+    image = "placeholder.png"
 +++
 
 Mills' company had been a struggling remote-work startup before he 

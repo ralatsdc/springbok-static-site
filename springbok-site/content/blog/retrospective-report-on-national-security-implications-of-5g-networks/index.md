@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "report-on-national-security-implications-of-5g-networks.jpeg"
+    image = "placeholder.png"
 +++
 
 As 5G technologies are developed and deployed, Congress may consider 

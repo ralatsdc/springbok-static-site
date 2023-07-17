@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "russia-dismisses-controversial-space-agency-chief-dmitry.jpeg"
+    image = "placeholder.png"
 +++
 
 The decree states simply that Putin will "Release Dmitry Olegovich Rogozin 

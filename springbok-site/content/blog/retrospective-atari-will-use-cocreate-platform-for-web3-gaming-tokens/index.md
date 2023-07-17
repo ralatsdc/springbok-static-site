@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "atari-will-use-cocreate-platform-for-web3-gaming-tokens.png"
+    image = "placeholder.png"
 +++
 
 Co:Create is working with Atari X on Web3 gaming tokens. Image Credit: 

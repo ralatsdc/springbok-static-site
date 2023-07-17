@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "2023-trends-in-artificial-intelligence-and-machine-learning.jpeg"
+    image = "placeholder.png"
 +++
 
 It excels in machine learning, eschews machine reasoning, and doesn't ... 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "coincodex-to-launch-a-chainlink-node-providing-signed-crypto-data-to-smart-contracts.jpeg"
+    image = "placeholder.png"
 +++
 
 Supplying DeFi smart contracts with aggregated cryptocurrency prices and 

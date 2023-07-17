@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "new-salmonella-proteins-discovered.jpeg"
+    image = "placeholder.png"
 +++
 
 In a bioinformatic reassessment of the Salmonella genome, the team led by 

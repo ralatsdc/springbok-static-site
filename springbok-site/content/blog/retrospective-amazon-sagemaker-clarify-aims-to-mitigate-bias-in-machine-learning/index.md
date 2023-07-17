@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "amazon-sagemaker-clarify-aims-to-mitigate-bias-in-machine-learning.jpeg"
+    image = "placeholder.png"
 +++
 
 The product comes amid intensifying debate in society about AI ethics and 

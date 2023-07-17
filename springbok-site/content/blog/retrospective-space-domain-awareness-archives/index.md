@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "space-domain-awareness-archives.jpeg"
+    image = "placeholder.png"
 +++
 
 ow that it's spun out of Analytical Graphics Inc., Comspoc operates more 

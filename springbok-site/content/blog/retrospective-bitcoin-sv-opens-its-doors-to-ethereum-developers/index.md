@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "bitcoin-sv-opens-its-doors-to-ethereum-developers.jpeg"
+    image = "placeholder.png"
 +++
 
 sCrypt is the language that most developers of smart contracts on BSV use 

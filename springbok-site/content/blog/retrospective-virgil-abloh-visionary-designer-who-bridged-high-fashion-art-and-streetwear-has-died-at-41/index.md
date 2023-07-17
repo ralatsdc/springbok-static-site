@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "virgil-abloh-visionary-designer-who-bridged-high-fashion-art-and-streetwear-has-died-at-41.jpeg"
+    image = "placeholder.png"
 +++
 
 He was relentlessly generative and a prolific collaborator, spearheading 

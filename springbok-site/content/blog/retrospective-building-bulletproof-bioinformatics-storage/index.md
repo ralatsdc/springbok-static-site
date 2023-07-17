@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "building-bulletproof-bioinformatics-storage.jpeg"
+    image = "placeholder.png"
 +++
 
 One especially interesting example of how a mission-critical bioinformatics 

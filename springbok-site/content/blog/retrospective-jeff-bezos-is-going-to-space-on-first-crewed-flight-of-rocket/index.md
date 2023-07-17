@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "jeff-bezos-is-going-to-space-on-first-crewed-flight-of-rocket.jpeg"
+    image = "placeholder.png"
 +++
 
 New York (CNN Business) Jeff Bezos will be flying to space on the first 

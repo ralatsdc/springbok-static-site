@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "apitech-appoints-new-general-counsel-donald-e-walther.png"
+    image = "placeholder.png"
 +++
 
 It sought an urgent interim ruling and recommendation that nothing be done 

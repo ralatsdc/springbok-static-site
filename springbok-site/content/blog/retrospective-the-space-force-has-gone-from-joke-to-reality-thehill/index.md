@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-space-force-has-gone-from-joke-to-reality-thehill.png"
+    image = "placeholder.png"
 +++
 
 The Space Force will have to develop what it needs to accomplish its main 

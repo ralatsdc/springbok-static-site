@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "synthetic-biologist-marc-salit-named-mitre-fellow.png"
+    image = "placeholder.png"
 +++
 
 “Synthetic biology harnesses this to make fundamental scientific advances 
