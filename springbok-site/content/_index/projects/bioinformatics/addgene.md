@@ -1,5 +1,5 @@
 +++
-title = "Addgene"
+title = "Non-profit plasmid repository"
 weight = 10
 
 [asset]

@@ -1,5 +1,5 @@
 +++
-title = "Fat Kat"
+title = "Quantitative hedge fund"
 weight = 10
 
 [asset]

@@ -1,5 +1,5 @@
 +++
-title = "Partners Health & Harvard Medical Institute"
+title = "The largest hospital-based research enterprise in the US"
 weight = 11
 
 [asset]

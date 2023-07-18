@@ -1,5 +1,5 @@
 +++
-title = "In-Q-Tel"
+title = "American not-for-profit venture capital firm"
 weight = 12
 
 [asset]

@@ -1,5 +1,5 @@
 +++
-title = "SpaceX"
+title = "American satellite communication company"
 weight = 10
 
 [asset]

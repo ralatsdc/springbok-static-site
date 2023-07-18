@@ -1,5 +1,5 @@
 +++
-title = "Federated Hermes"
+title = "A global leader in active, responsible investment management"
 weight = 10
 
 [asset]
