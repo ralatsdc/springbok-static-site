@@ -7,7 +7,7 @@ important = "true"
 subtitle = "Raymond LeClair"
 
 [asset]
-    image = "dunning-kruger.jpg"
+    image = "dunning-kruger.png"
 +++
 Permission requested.
 

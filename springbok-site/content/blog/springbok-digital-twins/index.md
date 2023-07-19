@@ -7,7 +7,7 @@ important = "true"
 subtitle = "Raymond LeClair"
 
 [asset]
-    image = "digital-twin.jpeg"
+    image = "digital-twin.png"
 +++
 
 Have you ever noticed that the future is shown in blue? I didn’t until looking for images representing digital twins. And then I was flooded with blue hued images, one of which is shown above. There are interesting cultural and scientific reasons why emergent technology is often depicted in blue. More on that another time, but for now, let’s talk about digital twins, which are at least as interesting…
