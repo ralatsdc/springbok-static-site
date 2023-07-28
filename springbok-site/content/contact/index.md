@@ -7,7 +7,7 @@ background = "success"
 text = "black"
 
 [asset]
-    image = "springbok_sitting_13_mosaic_15.png"
+    image = "contact-us.png"
 +++
 
 
