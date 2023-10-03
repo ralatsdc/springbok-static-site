@@ -1,0 +1,28 @@
+{{- $self := .self -}}
+{{- $bg := .bg -}}
+{{- $text_color := .params.text -}}
+{{- $align := .params.title_align | default "center" -}}
+{{- with .params.title }}
+  <div class="title-container row mx-0">
+    <div class="title col px-0
+      {{- printf " text-%s" $align -}}
+      {{- partial "helpers/text-color.html" (dict "self" $self "text_color" $text_color) -}}
+    ">
+      <h2>
+        {{- . | markdownify -}}
+      </h2>
+    </div>
+  </div>
+{{- end -}}
+{{- with .params.subtitle -}}
+  <div class="subtitle-container row mx-0">
+    <div class="subtitle col pt-4 pb-4 px-0
+      {{- printf " text-%s" $align -}}
+    {{- partial "helpers/text-color.html" (dict "self" $self "text_color" $text_color) -}}
+    ">
+      <h5>
+        {{- . | markdownify -}}
+      </h5>
+    </div>
+  </div>
+{{- end }}

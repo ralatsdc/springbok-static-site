@@ -1,0 +1,27 @@
+{{- $self := .self -}}
+{{- $bg := .bg -}}
+{{- $text_color := .params.text -}}
+{{- $align := .params.title_align | default "center" -}}
+{{- with .params.title -}}
+  <div class="col-lg-4 col-sm-10 subtitle-container row mx-0"
+    {{- if $self.Params.height -}}
+    {{- safeHTMLAttr (printf "style='min-height:%s'" $self.Params.height $self.Params.height) -}}
+    {{- end -}}>
+    <div class="subtitle col pt-4 pb-4 px-3
+      {{- printf " text-%s" $align -}}
+    {{- partial "helpers/text-color.html" (dict "self" $self "text_color" $text_color) -}}
+    ">
+      <h5>
+        {{- . | markdownify -}}
+      </h5>
+    {{- end }}
+
+    {{- with .params.subtitle -}}
+      <h6 class="
+        {{- printf " stick-bottom-%s" $align -}}
+    ">
+        {{- . | markdownify -}}
+      </h6>
+    {{- end }}
+    </div>
+  </div>
