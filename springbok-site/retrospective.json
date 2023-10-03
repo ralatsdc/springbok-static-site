@@ -1,42 +1,16 @@
 {
-    "bioinformatics": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "space": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "synthetic-biology": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "machine-learning": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "blockchain": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "generative-art": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "web3-gaming": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    },
-    "smart-contracts": {
-        "period": 6,
-        "window": 8,
-        "span": 2
-    }
+  "space commercialization": {},
+  "space defense": {},
+  "satellite": {},
+  "bioinformatics": {},
+  "synthetic-biology": {},
+  "quantitative investing": {},
+  "spectrum management": {},
+  "machine-learning": {},
+  "artificial intelligence": {},
+  "blockchain": {},
+  "smart-contracts": {},
+  "web3-gaming": {},
+  "generative-art": {},
+  "rust language": {}
 }
