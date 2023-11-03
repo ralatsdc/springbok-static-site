@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-nasas-webb-telescope-reaches-major-milestone-as-mirror.png"
 +++
 
 NASA's James Webb Space Telescope team fully deployed its 21-foot, 

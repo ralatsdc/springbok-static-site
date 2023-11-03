@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-inotiv-inc-announces-expansion-of-safety-assessment.png"
 +++
 
 ... specializing in genetic toxicology, in vivo and in vitro toxicology, 

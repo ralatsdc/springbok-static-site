@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-3-chinese-astronauts-arrive-at-tiangong-space-station-for-6.png"
 +++
 
 China's Tiangong space station has just welcomed its third set of visitors. 

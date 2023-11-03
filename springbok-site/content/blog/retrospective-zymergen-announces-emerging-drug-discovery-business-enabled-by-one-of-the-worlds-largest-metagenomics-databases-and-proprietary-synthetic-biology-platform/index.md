@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-zymergen-announces-emerging-drug-discovery-business-enabled-by-one-of-the-worlds-largest-metagenomics-databases-and-proprietary-synthetic-biology-platform.png"
 +++
 
 09, 2022 (GLOBE NEWSWIRE) -- Biotechnology company Zymergen (ZY) announced 

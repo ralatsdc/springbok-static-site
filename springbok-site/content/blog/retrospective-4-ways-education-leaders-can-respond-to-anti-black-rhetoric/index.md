@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "4-ways-education-leaders-can-respond-to-anti-black-rhetoric.png"
+    image = "retrospective-4-ways-education-leaders-can-respond-to-anti-black-rhetoric.png"
 +++
 
 In this @edtrust guest blog from @PheltonMoss, he lays out 4 ways for how 

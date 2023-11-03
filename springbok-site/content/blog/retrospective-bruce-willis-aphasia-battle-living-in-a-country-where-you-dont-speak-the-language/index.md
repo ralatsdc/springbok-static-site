@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "bruce-willis-aphasia-battle-living-in-a-country-where-you-dont-speak-the-language.png"
+    image = "retrospective-bruce-willis-aphasia-battle-living-in-a-country-where-you-dont-speak-the-language.png"
 +++
 
 A new bioinformatics pipeline solves a 50-year-old blood group puzzle. Sep 

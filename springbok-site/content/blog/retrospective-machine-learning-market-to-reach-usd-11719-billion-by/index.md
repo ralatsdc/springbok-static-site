@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-market-to-reach-usd-11719-billion-by.png"
 +++
 
 Pune, July 17, 2020 (GLOBE NEWSWIRE) -- The global machine learning market 

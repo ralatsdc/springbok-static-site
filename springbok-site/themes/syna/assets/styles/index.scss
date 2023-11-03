@@ -25,6 +25,7 @@ $dropdown-item-padding-x: 1rem;
   @import './fontawesome/brands.scss';
 {{- end }}
 @import './bootstrap/bootstrap.scss';
+@import './gen_images.scss';
 @import './helpers';
 @import './header';
 @import './faq';

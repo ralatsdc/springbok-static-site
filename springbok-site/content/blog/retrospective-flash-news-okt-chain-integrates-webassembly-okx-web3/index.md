@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "flash-news-okt-chain-integrates-webassembly-okx-web3.png"
+    image = "retrospective-flash-news-okt-chain-integrates-webassembly-okx-web3.png"
 +++
 
 GALA Games is a blockchain gaming project with the goal of building the 

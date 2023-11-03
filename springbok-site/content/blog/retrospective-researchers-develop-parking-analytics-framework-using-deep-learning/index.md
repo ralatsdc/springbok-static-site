@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "researchers-develop-parking-analytics-framework-using-deep-learning.png"
+    image = "retrospective-researchers-develop-parking-analytics-framework-using-deep-learning.png"
 +++
 
 Artificial Intelligence and deep learning in video analytics are gaining 

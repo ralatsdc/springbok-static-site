@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-monetary-authority-of-singapore-completes-multi-currency.png"
 +++
 
 Monetary Authority of Singapore completes multi-currency blockchain 

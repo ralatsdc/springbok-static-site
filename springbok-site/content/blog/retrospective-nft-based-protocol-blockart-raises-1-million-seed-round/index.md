@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-nft-based-protocol-blockart-raises-1-million-seed-round.png"
 +++
 
 ... anyone to mint generative art as NFTs by collaboratively visualizing 

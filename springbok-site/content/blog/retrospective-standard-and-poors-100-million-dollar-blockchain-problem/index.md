@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-standard-and-poors-100-million-dollar-blockchain-problem.png"
 +++
 
 The joint venture — Synaps — aimed to provide blockchain powered solutions 

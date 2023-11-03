@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-south-africas-blockchain-enabled-renewables-firm-sun.png"
 +++
 
 South Africa-based blockchain firm Sun Exchange raised $3 million from 

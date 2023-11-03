@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-the-deep-learning-market-in-2022.png"
 +++
 
 Deep learning is a subset of machine learning technology. It consists of 

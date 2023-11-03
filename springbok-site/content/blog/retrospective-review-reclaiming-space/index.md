@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "review-reclaiming-space.png"
+    image = "retrospective-review-reclaiming-space.png"
 +++
 
 The rise of commercial space ventures, and the people running them, has 

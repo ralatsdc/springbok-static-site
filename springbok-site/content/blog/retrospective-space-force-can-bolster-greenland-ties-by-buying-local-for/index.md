@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "space-force-can-bolster-greenland-ties-by-buying-local-for.png"
+    image = "retrospective-space-force-can-bolster-greenland-ties-by-buying-local-for.png"
 +++
 
 ... Space Operations U.S. Space Force Gen. Chance Saltzman said at the 

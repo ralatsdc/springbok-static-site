@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-is-now-being-used-to-cheat-in-multiplayer.png"
 +++
 
 The player is still required to play the game and point in the right 

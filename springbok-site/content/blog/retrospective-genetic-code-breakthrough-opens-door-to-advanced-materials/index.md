@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-genetic-code-breakthrough-opens-door-to-advanced-materials.png"
 +++
 
 “This is potentially a revolution in biology,” said Jason Chin, project 

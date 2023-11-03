@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "antonov-head-suspended-over-an-225-allegations.png"
+    image = "retrospective-antonov-head-suspended-over-an-225-allegations.png"
 +++
 
 Antonov Head Suspended Over An-225 Allegations is published in Aerospace 

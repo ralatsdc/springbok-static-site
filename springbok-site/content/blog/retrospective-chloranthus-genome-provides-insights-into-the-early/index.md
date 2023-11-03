@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-chloranthus-genome-provides-insights-into-the-early.png"
 +++
 
 Due to advances in sequencing technologies, declining cost, and efficient 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "big-eyes-coin-on-ethereum-blockchain-could-be-as-big-as-axie-infinity.png"
+    image = "retrospective-big-eyes-coin-on-ethereum-blockchain-could-be-as-big-as-axie-infinity.png"
 +++
 
 The metaverse is one sector of the blockchain technology that has made 

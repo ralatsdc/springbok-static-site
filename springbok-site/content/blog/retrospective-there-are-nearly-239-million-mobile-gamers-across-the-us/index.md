@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-there-are-nearly-239-million-mobile-gamers-across-the-us.png"
 +++
 
 Mobile gaming saw a significant surge across the US and Canada in 2020, 

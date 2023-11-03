@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ripple-proposes-new-xrp-ledger-tools-for-smart-contracts.png"
 +++
 
 As previously reported, blockchain technology can be used in the execution 

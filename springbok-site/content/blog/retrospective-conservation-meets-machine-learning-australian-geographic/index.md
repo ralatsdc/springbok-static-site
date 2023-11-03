@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "conservation-meets-machine-learning-australian-geographic.png"
+    image = "retrospective-conservation-meets-machine-learning-australian-geographic.png"
 +++
 
 Conservation meets machine learning. Artificial intelligence is opening an 

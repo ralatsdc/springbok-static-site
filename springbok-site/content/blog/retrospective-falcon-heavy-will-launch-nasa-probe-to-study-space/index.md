@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-falcon-heavy-will-launch-nasa-probe-to-study-space.png"
 +++
 
 Pegasus XL rocket launches secretive 'space domain awareness' satellite for 

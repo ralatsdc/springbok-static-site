@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-for-deep-elastic-strain-engineering-of.png"
 +++
 
 Such simulations, however, call for approaches that combine deep learning 

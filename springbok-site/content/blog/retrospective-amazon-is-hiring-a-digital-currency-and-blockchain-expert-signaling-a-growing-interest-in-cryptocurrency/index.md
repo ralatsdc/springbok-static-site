@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-amazon-is-hiring-a-digital-currency-and-blockchain-expert-signaling-a-growing-interest-in-cryptocurrency.png"
 +++
 
 Amazon's payments team is looking to hire a digital currency and blockchain 

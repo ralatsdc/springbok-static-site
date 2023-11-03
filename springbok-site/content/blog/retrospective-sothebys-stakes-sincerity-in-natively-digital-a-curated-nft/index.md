@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-sothebys-stakes-sincerity-in-natively-digital-a-curated-nft.png"
 +++
 
 The NFT tsunami followed instantly, sending the art world into a state of 

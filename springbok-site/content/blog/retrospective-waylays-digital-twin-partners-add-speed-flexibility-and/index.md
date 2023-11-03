@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-waylays-digital-twin-partners-add-speed-flexibility-and.png"
 +++
 
 Waylay announces top-tier implementation partners for Waylay Digital Twin, 

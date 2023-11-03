@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-prada-adidas-launch-nft-project-on-polygon.png"
 +++
 
 Web3. Web3. Yuga Labs · NFTs · Metaverse · Dao · Gaming · Metaverse Seoul 

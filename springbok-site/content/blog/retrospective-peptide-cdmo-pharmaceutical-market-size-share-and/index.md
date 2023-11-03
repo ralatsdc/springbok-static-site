@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "peptide-cdmo-pharmaceutical-market-size-share-and.png"
+    image = "retrospective-peptide-cdmo-pharmaceutical-market-size-share-and.png"
 +++
 
 high prevalence of chronic diseases, and the use of bioinformatics and 

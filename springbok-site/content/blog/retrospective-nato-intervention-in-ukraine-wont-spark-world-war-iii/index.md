@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nato-intervention-in-ukraine-wont-spark-world-war-iii.png"
+    image = "retrospective-nato-intervention-in-ukraine-wont-spark-world-war-iii.png"
 +++
 
 Account Management, Search, and Primary Navigation. Close menu; Sign In; 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-biden-administration-makes-public-first-full-color-image-from.png"
 +++
 
 The Webb Space Telescope launched from French Guiana in December 2021 and 

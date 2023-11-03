@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-global-synthetic-biology-market-report-2021-market-to-reach-288-billion-by-2026-oligonucleotides-synthetic-dna-is-projected-to-account-for-161-billion.png"
 +++
 
 Global Synthetic Biology Market Report 2021: Market to Reach $28.8 Billion 

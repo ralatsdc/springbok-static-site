@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-are-the-ethics-of-synthetic-biology-fit-for-purpose.png"
 +++
 
 Synthetic biology promises far reaching solutions to human concerns, from 

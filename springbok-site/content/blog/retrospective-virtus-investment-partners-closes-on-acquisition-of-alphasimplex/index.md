@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "virtus-investment-partners-closes-on-acquisition-of-alphasimplex.png"
+    image = "retrospective-virtus-investment-partners-closes-on-acquisition-of-alphasimplex.png"
 +++
 
 ... acquisition of AlphaSimplex, LLC, a leading manager of quantitative 

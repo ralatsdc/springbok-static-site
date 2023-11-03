@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nyc-omny-subway-fare-system-run-by-defense-firm-cubic.png"
+    image = "retrospective-nyc-omny-subway-fare-system-run-by-defense-firm-cubic.png"
 +++
 
 Over the past decade, Cubic has taken the first steps toward actualizing 

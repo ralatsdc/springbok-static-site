@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "honda-announces-air-mobility-robot-and-rocket-ambitions.png"
+    image = "retrospective-honda-announces-air-mobility-robot-and-rocket-ambitions.png"
 +++
 
 Management Briefing Seminars · World Congress · News by Brand · Aston 

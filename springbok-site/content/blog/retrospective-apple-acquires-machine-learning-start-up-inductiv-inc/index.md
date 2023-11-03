@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-apple-acquires-machine-learning-start-up-inductiv-inc.png"
 +++
 
 The latest AI company to be snapped up by Apple is Ontario-based machine 

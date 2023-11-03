@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-binance-investment-director-ken-li-talks-about-investing-in.png"
 +++
 
 Ken Li is an Investment Director at Binance Labs, with a focus on equity & 

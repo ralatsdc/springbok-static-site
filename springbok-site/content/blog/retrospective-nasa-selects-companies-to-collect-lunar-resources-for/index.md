@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-nasa-selects-companies-to-collect-lunar-resources-for.png"
 +++
 
 Space resources will play a key role in NASA's Artemis program and future 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-congress-gives-trump-rump-space-force.png"
 +++
 
 WASHINGTON: When is a Space Force not a Space Force? When it is a 

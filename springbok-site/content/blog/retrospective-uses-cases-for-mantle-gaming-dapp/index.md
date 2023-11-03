@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "uses-cases-for-mantle-gaming-dapp.png"
+    image = "retrospective-uses-cases-for-mantle-gaming-dapp.png"
 +++
 
 1 Mantle is a web3 technology that is supported by blockchain and Ethereum 

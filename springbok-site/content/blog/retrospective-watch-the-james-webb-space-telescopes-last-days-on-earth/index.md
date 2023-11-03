@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-watch-the-james-webb-space-telescopes-last-days-on-earth.png"
 +++
 
 It's been a month since the James Webb Space Telescope launched to space 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "satellite-cellular-convergence-takes-center-stage-at-mobile.png"
+    image = "retrospective-satellite-cellular-convergence-takes-center-stage-at-mobile.png"
 +++
 
 Globalstar CEO David Kagan delivering a keynote address at SATELLITE @ MWC 

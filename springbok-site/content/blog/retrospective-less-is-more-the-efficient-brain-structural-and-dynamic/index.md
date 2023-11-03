@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-less-is-more-the-efficient-brain-structural-and-dynamic.png"
 +++
 
 ... /Physical sciences/Earth sciences/Geophysics/Avalanches; /Life 

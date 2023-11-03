@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ibm-helps-thai-re-launch-reinsurance-smart-contract-platform.png"
 +++
 
 Yesterday IBM announced that the Thai Reinsurance Public Company (Thai Re) 

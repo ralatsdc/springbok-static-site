@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-it-will-change-everything-deepminds-ai-makes-gigantic-leap.png"
 +++
 
 How a protein works and what it does is determined by its 3D shape — 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "ariob-graduates-inaugural-cohort-for-african-blockchain-ecosystem.png"
+    image = "retrospective-ariob-graduates-inaugural-cohort-for-african-blockchain-ecosystem.png"
 +++
 
 Ariob, an incubation programme aimed at launching African-centered startups 

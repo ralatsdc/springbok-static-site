@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-model-uses-blood-plasma-proteins-to-predict-survival-for-covid-19-patients.png"
 +++
 
 A machine learning approach was used to find associations between the 

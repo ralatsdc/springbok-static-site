@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-adtheorent-is-using-machine-learning-to-predict-effective.png"
 +++
 
 In that vein, 22Squared has been testing a solution released by AdTheorent 

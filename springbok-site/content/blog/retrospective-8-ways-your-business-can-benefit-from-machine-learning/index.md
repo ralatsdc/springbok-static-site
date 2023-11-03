@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-8-ways-your-business-can-benefit-from-machine-learning.png"
 +++
 
 Machine Learning is a subfield of artificial intelligence where algorithms 

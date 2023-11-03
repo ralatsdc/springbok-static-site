@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "inside-vaduz-castle-12th-century-130-room-home-of-liechtensteins-royal-family.png"
+    image = "retrospective-inside-vaduz-castle-12th-century-130-room-home-of-liechtensteins-royal-family.png"
 +++
 
 ... LANGUAGE]. Royal diet: The 'supreme delight' food the Queen refuses to 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-multimedia-update-beatport-and-gaming-music.png"
 +++
 
 Synth Heads are created using a process called Generative Art, which 

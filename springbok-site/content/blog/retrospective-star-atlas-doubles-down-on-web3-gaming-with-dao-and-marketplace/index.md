@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-star-atlas-doubles-down-on-web3-gaming-with-dao-and-marketplace.png"
 +++
 
 Star Atlas unveiled a lot of updates for its metaverse-like sci-fi 

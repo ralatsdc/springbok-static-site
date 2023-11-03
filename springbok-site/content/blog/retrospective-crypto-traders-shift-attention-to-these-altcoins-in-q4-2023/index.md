@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "crypto-traders-shift-attention-to-these-altcoins-in-q4-2023.png"
+    image = "retrospective-crypto-traders-shift-attention-to-these-altcoins-in-q4-2023.png"
 +++
 
 ... smart contracts on the blockchain and real-world data sources. This 

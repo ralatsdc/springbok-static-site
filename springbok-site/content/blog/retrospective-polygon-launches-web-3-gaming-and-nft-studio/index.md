@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-polygon-launches-web-3-gaming-and-nft-studio.png"
 +++
 
 Additionally, it also runs leading Web3 games like Aavegotchi, Zed Run, ... 

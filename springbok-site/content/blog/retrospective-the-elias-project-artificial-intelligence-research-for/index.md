@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-elias-project-artificial-intelligence-research-for.png"
+    image = "retrospective-the-elias-project-artificial-intelligence-research-for.png"
 +++
 
 Funded by the European Union, the Elias project is focused on Artificial 

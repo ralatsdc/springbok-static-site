@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-why-brands-need-to-embrace-web3-part-1.png"
 +++
 
 Companies could use Web3 to help them engage with their audiences. ... 

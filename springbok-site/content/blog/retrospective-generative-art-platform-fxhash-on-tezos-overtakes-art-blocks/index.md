@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-generative-art-platform-fxhash-on-tezos-overtakes-art-blocks.png"
 +++
 
 Tezos' fx(hash) has officially overtaken Art Blocks as the top generative 

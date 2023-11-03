@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "how-to-store-aachar-5-aachar-containers-that-are-essential-in-your-kitchen.png"
+    image = "retrospective-how-to-store-aachar-5-aachar-containers-that-are-essential-in-your-kitchen.png"
 +++
 
 Select Language. English · हिन्दी. News Updates. Live TV · India · Video · 

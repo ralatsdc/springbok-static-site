@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-blockchain-beyond-bitcoin-transforming-fintech-healthcare.png"
 +++
 
 The goal of blockchain is to digitally record information to be distributed 

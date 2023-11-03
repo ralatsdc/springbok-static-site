@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-chinas-bsn-blockchain-network-to-launch-nfts.png"
 +++
 
 As cryptocurrencies are banned in China, the NFTs will be denominated in 

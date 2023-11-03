@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-tracks-ehr-data-to-predict-disease-risk.png"
 +++
 
 June 19, 2020 - A new sequential approach uses machine learning to connect 

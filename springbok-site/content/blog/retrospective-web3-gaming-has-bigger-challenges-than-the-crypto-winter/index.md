@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-web3-gaming-has-bigger-challenges-than-the-crypto-winter.png"
 +++
 
 Billions of gamers worldwide play games because they're fun. They rely on 

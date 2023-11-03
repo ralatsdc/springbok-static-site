@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-smart-contracts-have-limited-potential-without-iot-sensors.png"
 +++
 
 Smart contracts in the trade sector will need to rely on IoT sensors to 

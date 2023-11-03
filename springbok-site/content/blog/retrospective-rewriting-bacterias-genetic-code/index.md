@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-rewriting-bacterias-genetic-code.png"
 +++
 
 Jason W. Chin and coworkers at the MRC Laboratory of Molecular Biology and 

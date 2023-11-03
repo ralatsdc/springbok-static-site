@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ten-computer-codes-that-transformed-science.png"
 +++
 
 ... have their roots in the work of Margaret Dayhoff, a bioinformatics 

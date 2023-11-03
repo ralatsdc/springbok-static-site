@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "pimco-picks-for-rising-rates.png"
+    image = "retrospective-pimco-picks-for-rising-rates.png"
 +++
 
 Historically, during stock market selloffs, investors tend to move to bonds 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-persephone-biosciences-pioneers-in-synthetic-biology-lands-15m-in-seed-funding.png"
 +++
 
 Persephone Biosciences, Pioneers In Synthetic Biology, Lands $15M In Seed 

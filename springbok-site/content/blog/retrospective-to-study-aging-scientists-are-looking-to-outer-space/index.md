@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-to-study-aging-scientists-are-looking-to-outer-space.png"
 +++
 
 Scott spent a year on the ISS from 2015 to 2016 while Mark stayed on Earth, 

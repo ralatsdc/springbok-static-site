@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-future-proof-your-career-with-a-graduate-computer-science.png"
 +++
 
 Dr Erich Baker has published numerous papers on bioinformatics, drawing 

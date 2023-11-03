@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-local-intersects-different-elements-to-create-mixed-media-art.png"
 +++
 
 When fabric and mixed media artist Donna Lee Dowdney first moved to ... It 

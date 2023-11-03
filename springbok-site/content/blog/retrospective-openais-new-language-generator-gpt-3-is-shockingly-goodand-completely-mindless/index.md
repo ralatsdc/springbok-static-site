@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-openais-new-language-generator-gpt-3-is-shockingly-goodand-completely-mindless.png"
 +++
 
 Mario Klingemann, an artist who works with machine learning, shared a short 

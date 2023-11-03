@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-databricks-steps-up-in-competitive-machine-learning-market.png"
 +++
 
 One analyst said the machine learning (ML) capabilities make Databricks' AI 

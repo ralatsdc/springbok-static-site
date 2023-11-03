@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "dfinity-foundation-launches-chain-key-bitcoin-a-native.png"
+    image = "retrospective-dfinity-foundation-launches-chain-key-bitcoin-a-native.png"
 +++
 
 The ckBTC system uses vaults called canisters, which work with a smart 

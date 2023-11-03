@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai.png"
+    image = "retrospective-stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai.png"
 +++
 
 Many others were not—and the world's artists and photographers aren't happy 

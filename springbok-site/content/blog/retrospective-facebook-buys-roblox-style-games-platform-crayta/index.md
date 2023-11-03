@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-facebook-buys-roblox-style-games-platform-crayta.png"
 +++
 
 AR startup Jadu raises $36m to build its web3-infused game. Back in the 

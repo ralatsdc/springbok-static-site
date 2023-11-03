@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-global-metagenomics-markets-2022-2030-emergence-of-new-fields-in-genomics-that-complement-metagenomics-developments-in-biotechnology-bioinformatics-techniques.png"
 +++
 
 Global Metagenomics Markets, 2022-2030: Emergence of New Fields in Genomics 

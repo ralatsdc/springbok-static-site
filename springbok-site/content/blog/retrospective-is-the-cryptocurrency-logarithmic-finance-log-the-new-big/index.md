@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "is-the-cryptocurrency-logarithmic-finance-log-the-new-big.png"
+    image = "retrospective-is-the-cryptocurrency-logarithmic-finance-log-the-new-big.png"
 +++
 
 Pepe and ApeCoin Surge, But Domini.art Steals Spotlight with a Stunning 

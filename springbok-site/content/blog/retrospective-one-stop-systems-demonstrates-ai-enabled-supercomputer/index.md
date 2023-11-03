@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "one-stop-systems-demonstrates-ai-enabled-supercomputer.png"
+    image = "retrospective-one-stop-systems-demonstrates-ai-enabled-supercomputer.png"
 +++
 
 ... Spectrum Management Test Vetronics. Avionics. Computers Databus 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-general-considerations-for-online-teaching-practices-in.png"
 +++
 
 Concerning practices in bioinformatics, which are traditionally performed 

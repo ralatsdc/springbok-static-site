@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "polar-operational-environmental-satellites-poes-nesdis.png"
+    image = "retrospective-polar-operational-environmental-satellites-poes-nesdis.png"
 +++
 
 The Polar Operational Environmental Satellites (POES) satellite system 

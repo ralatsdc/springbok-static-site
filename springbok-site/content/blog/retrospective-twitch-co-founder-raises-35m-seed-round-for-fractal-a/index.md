@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "twitch-co-founder-raises-35m-seed-round-for-fractal-a.png"
+    image = "retrospective-twitch-co-founder-raises-35m-seed-round-for-fractal-a.png"
 +++
 
 SAN FRANCISCO · Fractal is a marketplace for video game players to 

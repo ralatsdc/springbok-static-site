@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nuclear-reactor-proposal-could-power-10-international.png"
+    image = "retrospective-nuclear-reactor-proposal-could-power-10-international.png"
 +++
 
 NASA, the Defense Advanced Research Projects Agency (DARPA), and the 

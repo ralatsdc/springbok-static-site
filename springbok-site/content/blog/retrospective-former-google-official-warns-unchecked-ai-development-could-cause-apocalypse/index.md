@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "former-google-official-warns-unchecked-ai-development-could-cause-apocalypse.png"
+    image = "retrospective-former-google-official-warns-unchecked-ai-development-could-cause-apocalypse.png"
 +++
 
 Artificial intelligence has a multitude of benefits in varied industries 

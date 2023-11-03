@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-web3-defi-enterprise-saas-and-gaming-were-the-most.png"
 +++
 
 Web3 & DeFi, Enterprise SaaS, and Gaming Were The Most Attractive 

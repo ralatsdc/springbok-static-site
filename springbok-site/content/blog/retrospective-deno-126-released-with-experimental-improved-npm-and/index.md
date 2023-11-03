@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "deno-126-released-with-experimental-improved-npm-and.png"
+    image = "retrospective-deno-126-released-with-experimental-improved-npm-and.png"
 +++
 
 js. Bun uses JavaScript Core and is written in the Zig language, whereas 

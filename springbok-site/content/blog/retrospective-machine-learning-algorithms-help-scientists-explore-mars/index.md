@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-algorithms-help-scientists-explore-mars.png"
 +++
 
 In their new paper, the authors used an unsupervised machine learning 

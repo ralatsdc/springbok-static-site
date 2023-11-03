@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-fda-releases-artificial-intelligencemachine-learning-action.png"
 +++
 
 Developing methods to evaluate and improve machine learning algorithms; 

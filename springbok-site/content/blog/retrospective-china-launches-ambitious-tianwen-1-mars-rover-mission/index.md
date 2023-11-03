@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-china-launches-ambitious-tianwen-1-mars-rover-mission.png"
 +++
 
 Space is supported by its audience. When you purchase through links on our 

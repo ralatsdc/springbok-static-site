@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-understanding-defi-and-its-importance-in-the-crypto-economy.png"
 +++
 
 Running a smart contract is much more cost-effective than running a 

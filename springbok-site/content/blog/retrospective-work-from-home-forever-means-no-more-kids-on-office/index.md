@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "work-from-home-forever-means-no-more-kids-on-office.png"
+    image = "retrospective-work-from-home-forever-means-no-more-kids-on-office.png"
 +++
 
 Factor Investing · Alternative Investing · Economic Calendar · Markets 

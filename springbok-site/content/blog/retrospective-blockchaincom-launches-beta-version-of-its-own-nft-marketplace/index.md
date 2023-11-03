@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-blockchaincom-launches-beta-version-of-its-own-nft-marketplace.png"
 +++
 
 Crypto finance company Blockchain.com announced Thursday that it is going 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-why-is-everyone-so-excited-about-zero-knowledge-rollups.png"
 +++
 
 ... computations and storage while keeping funds in a smart contract. ... 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-one-of-the-best-cheap-gaming-headsetscorsairs-hs60-prois-only-40-for-black-friday.png"
 +++
 
 This is truly one of the best gaming headsets you're going to find for so 

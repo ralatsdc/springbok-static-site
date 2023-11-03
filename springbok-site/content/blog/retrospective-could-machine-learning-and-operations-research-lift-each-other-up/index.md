@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-could-machine-learning-and-operations-research-lift-each-other-up.png"
 +++
 
 Machine learning and OR can also be used in conjunction, to help the other. 

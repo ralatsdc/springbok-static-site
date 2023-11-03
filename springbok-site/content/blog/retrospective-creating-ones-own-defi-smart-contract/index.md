@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "creating-ones-own-defi-smart-contract.png"
+    image = "retrospective-creating-ones-own-defi-smart-contract.png"
 +++
 
 For Binance Smart Chain, one can reuse Ethereum tools like Solidity, 

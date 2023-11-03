@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-insitro-announces-leadership-team-expansion-to-support.png"
 +++
 
 insitro Announces Leadership Team Expansion to Support Advancement of 

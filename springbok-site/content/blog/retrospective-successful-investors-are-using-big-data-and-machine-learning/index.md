@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-successful-investors-are-using-big-data-and-machine-learning.png"
 +++
 
 Together, big data and machine learning have become the backbone of the 

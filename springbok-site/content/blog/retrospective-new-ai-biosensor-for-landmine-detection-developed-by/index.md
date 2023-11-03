@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "new-ai-biosensor-for-landmine-detection-developed-by.png"
+    image = "retrospective-new-ai-biosensor-for-landmine-detection-developed-by.png"
 +++
 
 Belkin. "This collaboration highlights the potential of synthetic biology 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "spectrum-cube-named-mep-contractor-of-the-year-mep.png"
+    image = "retrospective-spectrum-cube-named-mep-contractor-of-the-year-mep.png"
 +++
 
 Spectrum Cube's expertise in the engineering and contracting industry is 

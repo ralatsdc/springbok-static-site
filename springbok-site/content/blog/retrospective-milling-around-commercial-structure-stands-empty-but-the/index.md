@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "milling-around-commercial-structure-stands-empty-but-the.png"
+    image = "retrospective-milling-around-commercial-structure-stands-empty-but-the.png"
 +++
 
 The project launched in 2019 in response to a scenario “where there was an 

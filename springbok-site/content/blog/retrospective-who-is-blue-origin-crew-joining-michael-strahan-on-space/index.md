@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-who-is-blue-origin-crew-joining-michael-strahan-on-space.png"
 +++
 
 Six people, including the first parent and child to travel to space 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-soros-funds-invests-in-animoca-brands-358m-funding-for.png"
 +++
 
 Today blockchain games company Animoca Brands announced a $358 million 

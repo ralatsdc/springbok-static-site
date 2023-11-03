@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-corba-22-to-join-research-team-at-memorial-sloan-kettering.png"
 +++
 
 He cites Sociology of Health and Illness, Health Systems, Bioinformatics, 

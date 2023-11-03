@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ripple-xrp-ceo-is-in-awe-of-chinas-crypto-and-blockchain-approach.png"
 +++
 
 Swords of Blood opens the gateway for traditional online gamers to 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-applied-blockchain-secures-200-megawatt-five-year-hosting.png"
 +++
 
 (Nasdaq: APLD) ("Applied Blockchain" or the "Company") has entered into a 

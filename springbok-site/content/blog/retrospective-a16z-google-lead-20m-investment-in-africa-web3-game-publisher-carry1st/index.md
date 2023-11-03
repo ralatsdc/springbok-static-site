@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-a16z-google-lead-20m-investment-in-africa-web3-game-publisher-carry1st.png"
 +++
 
 Web3 and social games publisher Carry1st has raised $20 million in Series A 

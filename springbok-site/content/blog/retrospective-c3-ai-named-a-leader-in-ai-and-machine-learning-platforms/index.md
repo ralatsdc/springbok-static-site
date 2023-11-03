@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-c3-ai-named-a-leader-in-ai-and-machine-learning-platforms.png"
 +++
 
 Download The Forrester Wave™: AI and Machine Learning Platforms, Q3 2022 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-open-science-drives-bioinformatics-research.png"
 +++
 
 Today the European Bioinformatics Institute (EBI) maintains the world's 

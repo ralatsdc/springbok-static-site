@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-minecraft-says-no-to-nfts-and-blockchain-citing-fraud-and.png"
 +++
 
 As a form of blockchain technology, an NFT or non-fungible token is 

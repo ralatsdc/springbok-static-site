@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-what-is-generative-art-and-why-does-it-matter.png"
 +++
 
 Bense taught two of the artists with work in the current Phillips auction 

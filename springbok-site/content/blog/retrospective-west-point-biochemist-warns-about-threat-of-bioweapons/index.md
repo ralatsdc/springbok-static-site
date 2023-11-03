@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-west-point-biochemist-warns-about-threat-of-bioweapons.png"
 +++
 
 Your piece was titled "Engineered Pathogens and Unnatural Biological 

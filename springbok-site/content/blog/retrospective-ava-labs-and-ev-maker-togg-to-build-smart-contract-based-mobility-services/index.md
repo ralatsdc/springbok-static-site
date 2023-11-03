@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ava-labs-and-ev-maker-togg-to-build-smart-contract-based-mobility-services.png"
 +++
 
 Togg will implement smart contracts and blockchain technology so users can 

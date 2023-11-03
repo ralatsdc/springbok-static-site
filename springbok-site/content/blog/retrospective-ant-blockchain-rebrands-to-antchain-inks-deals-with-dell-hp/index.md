@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ant-blockchain-rebrands-to-antchain-inks-deals-with-dell-hp.png"
 +++
 
 One of AntChain's blockchain solutions relates to leasing and it has 

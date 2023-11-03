@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-singapore-launches-89m-blockchain-research-program-for-trade-supply-chain.png"
 +++
 
 The goal of the collaboration is to develop, commercialize and boost the 

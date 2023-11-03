@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "korean-air-moves-entire-it-infrastructure-to-aws.png"
+    image = "retrospective-korean-air-moves-entire-it-infrastructure-to-aws.png"
 +++
 
 Korean Air plans to introduce a machine learning management service, which 

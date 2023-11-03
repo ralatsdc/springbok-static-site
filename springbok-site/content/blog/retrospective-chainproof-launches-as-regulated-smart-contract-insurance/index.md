@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-chainproof-launches-as-regulated-smart-contract-insurance.png"
 +++
 
 By July 2022, Chainproof plans to offer licensed, institutional-grade 

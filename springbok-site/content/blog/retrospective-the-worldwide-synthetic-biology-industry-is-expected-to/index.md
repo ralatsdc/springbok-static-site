@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-the-worldwide-synthetic-biology-industry-is-expected-to.png"
 +++
 
 However, the renewed regulations for biotechnology hamper the market 

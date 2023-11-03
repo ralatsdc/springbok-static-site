@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-space-junk-hit-a-robotic-arm-on-the-international-space-station.png"
 +++
 
 A tiny piece of orbiting debris punched a five-millimeter-wide hole in the 

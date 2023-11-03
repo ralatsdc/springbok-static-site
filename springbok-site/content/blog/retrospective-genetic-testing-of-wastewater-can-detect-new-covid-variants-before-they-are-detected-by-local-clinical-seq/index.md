@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-genetic-testing-of-wastewater-can-detect-new-covid-variants-before-they-are-detected-by-local-clinical-seq.png"
 +++
 
 “Then we developed a novel bioinformatic analysis approach which was 

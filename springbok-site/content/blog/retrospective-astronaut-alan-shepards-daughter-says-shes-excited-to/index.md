@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-astronaut-alan-shepards-daughter-says-shes-excited-to.png"
 +++
 
 “An original Shepard will fly on the New Shepard.” Laura Shepard Churchley, 

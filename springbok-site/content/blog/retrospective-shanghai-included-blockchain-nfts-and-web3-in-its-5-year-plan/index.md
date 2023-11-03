@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-shanghai-included-blockchain-nfts-and-web3-in-its-5-year-plan.png"
 +++
 
 Shanghai included blockchain, NFTs and Web3 in its 5-year plan. The 

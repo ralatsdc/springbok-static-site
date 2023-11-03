@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-insider-trading-charges-filed-over-long-island-iced-teas-blockchain-pivot.png"
 +++
 
 ... as much as 380% merely by announcing a "pivot" to blockchain 

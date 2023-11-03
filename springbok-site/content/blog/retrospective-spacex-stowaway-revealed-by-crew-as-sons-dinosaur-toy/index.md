@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-spacex-stowaway-revealed-by-crew-as-sons-dinosaur-toy.png"
 +++
 
 A stowaway aboard SpaceX's first mission to launch astronauts to the 

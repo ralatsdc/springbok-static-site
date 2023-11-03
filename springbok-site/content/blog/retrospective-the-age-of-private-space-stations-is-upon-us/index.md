@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-age-of-private-space-stations-is-upon-us.png"
+    image = "retrospective-the-age-of-private-space-stations-is-upon-us.png"
 +++
 
 “With commercial companies now providing transportation to low-Earth orbit, 

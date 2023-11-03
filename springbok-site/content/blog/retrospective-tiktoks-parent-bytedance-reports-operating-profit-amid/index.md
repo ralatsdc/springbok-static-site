@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "tiktoks-parent-bytedance-reports-operating-profit-amid.png"
+    image = "retrospective-tiktoks-parent-bytedance-reports-operating-profit-amid.png"
 +++
 
 ... Investing.com. Download Now. This article was originally published on 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-artificial-intelligence-that-understands-object-relationships.png"
 +++
 
 MIT researchers have developed a machine learning model that understands 

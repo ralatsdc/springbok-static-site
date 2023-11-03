@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-understanding-deep-learning-vs-machine-learning.png"
 +++
 
 It is an artificial intelligence subset of machine learning with networks 

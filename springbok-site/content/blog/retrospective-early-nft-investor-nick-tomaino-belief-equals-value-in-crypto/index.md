@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "early-nft-investor-nick-tomaino-belief-equals-value-in-crypto.png"
+    image = "retrospective-early-nft-investor-nick-tomaino-belief-equals-value-in-crypto.png"
 +++
 
 Create an account to save your articles. Your Web3 Gaming Power-Up. Enjoy 

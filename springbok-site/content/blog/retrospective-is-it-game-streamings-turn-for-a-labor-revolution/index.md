@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-is-it-game-streamings-turn-for-a-labor-revolution.png"
 +++
 
 (As part of a new partnership between Microsoft and Facebook, Mixer offered 

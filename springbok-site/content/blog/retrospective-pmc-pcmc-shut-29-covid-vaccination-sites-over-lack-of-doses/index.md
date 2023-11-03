@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "pmc-pcmc-shut-29-covid-vaccination-sites-over-lack-of-doses.png"
+    image = "retrospective-pmc-pcmc-shut-29-covid-vaccination-sites-over-lack-of-doses.png"
 +++
 
 He completed M Tech in Bioinformatics from Mumbai and found his passion in 

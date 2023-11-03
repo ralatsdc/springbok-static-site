@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-grand-theft-auto-maker-take-two-is-buying-farmville-developer-zynga-in-127b-deal.png"
 +++
 
 Video game giant Take-Two is acquiring mobile gaming company Zynga in a ... 

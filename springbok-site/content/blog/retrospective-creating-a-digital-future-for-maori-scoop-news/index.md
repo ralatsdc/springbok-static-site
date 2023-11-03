@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-creating-a-digital-future-for-maori-scoop-news.png"
 +++
 
 It sought an urgent interim ruling and recommendation that nothing be done 

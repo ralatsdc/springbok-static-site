@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-reliance-jio-leads-series-a-funding-of-mobile-gaming-startup-krikey.png"
 +++
 
 Mukesh Ambani's Reliance Jio made a foray into AI and gaming on Wednesday 

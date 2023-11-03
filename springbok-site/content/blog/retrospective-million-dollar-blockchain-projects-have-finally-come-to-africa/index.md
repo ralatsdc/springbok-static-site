@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-million-dollar-blockchain-projects-have-finally-come-to-africa.png"
 +++
 
 The potential use cases of blockchain technology largely complement 

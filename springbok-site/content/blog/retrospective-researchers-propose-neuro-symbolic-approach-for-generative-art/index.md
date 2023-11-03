@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-researchers-propose-neuro-symbolic-approach-for-generative-art.png"
 +++
 
 Generative art refers to the creation of artworks using autonomous 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-what-is-art-blocks-a-guide-on-the-nft-art-pioneer.png"
 +++
 
 This programmatic, or generative, type of art uses algorithmic processes 

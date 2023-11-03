@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-richard-bransons-virgin-orbit-reaches-space-on-2nd-try.png"
 +++
 
 Virgin Orbit Boeing 747-400 rocket launch platform, named Cosmic Girl, 

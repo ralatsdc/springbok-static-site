@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ai-and-creativity-why-openais-latest-model-matters.png"
 +++
 
 (The name is a tribute to the surrealist artist Salvador Dalí and the ... 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-10-tips-to-transform-your-career-and-science-culture.png"
 +++
 
 Subscribe to our Newsletter Weekly updates from the frontlines of 

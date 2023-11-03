@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-japanese-space-capsule-carrying-pristine-asteroid-samples.png"
 +++
 
 Japanese space capsule carrying pristine asteroid samples lands in 

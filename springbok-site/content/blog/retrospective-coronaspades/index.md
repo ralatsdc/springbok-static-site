@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-coronaspades.png"
 +++
 
 CoronaSPAdes. Experts in bioinformatics from St Petersburg University 

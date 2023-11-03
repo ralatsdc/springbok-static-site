@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "blockchain-casino-the-future-of-online-gambling-or-a-short.png"
+    image = "retrospective-blockchain-casino-the-future-of-online-gambling-or-a-short.png"
 +++
 
 Blockchain technology provides a high level of encryption. Every 

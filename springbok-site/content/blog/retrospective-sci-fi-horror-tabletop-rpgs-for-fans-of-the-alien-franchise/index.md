@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "sci-fi-horror-tabletop-rpgs-for-fans-of-the-alien-franchise.png"
+    image = "retrospective-sci-fi-horror-tabletop-rpgs-for-fans-of-the-alien-franchise.png"
 +++
 
 Each of the tabletop RPG systems listed below, besides mirroring the used 

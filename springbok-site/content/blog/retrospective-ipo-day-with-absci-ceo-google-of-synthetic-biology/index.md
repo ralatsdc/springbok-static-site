@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ipo-day-with-absci-ceo-google-of-synthetic-biology.png"
 +++
 
 Absci, a synthetic biology company whose platform technology aids in the 

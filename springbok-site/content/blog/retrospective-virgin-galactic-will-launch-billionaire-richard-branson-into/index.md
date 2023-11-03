@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-virgin-galactic-will-launch-billionaire-richard-branson-into.png"
 +++
 
 Update 11:29 a.m. EDT: "Welcome to space, Unity 22," Virgin Galactic says 

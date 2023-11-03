@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "meet-the-e4f-fellow-using-machine-learning-to-find-next-gen-solar-materials.png"
+    image = "retrospective-meet-the-e4f-fellow-using-machine-learning-to-find-next-gen-solar-materials.png"
 +++
 
 Energy Futures Lab spoke to Dr Suhyun Yoo about his research and his 

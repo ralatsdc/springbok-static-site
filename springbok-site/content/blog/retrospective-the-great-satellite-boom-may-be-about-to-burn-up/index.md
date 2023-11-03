@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "the-great-satellite-boom-may-be-about-to-burn-up.png"
+    image = "retrospective-the-great-satellite-boom-may-be-about-to-burn-up.png"
 +++
 
 The greatest space network in history is about to come crashing down to 

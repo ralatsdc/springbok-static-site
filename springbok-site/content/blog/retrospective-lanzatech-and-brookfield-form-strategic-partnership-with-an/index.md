@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "lanzatech-and-brookfield-form-strategic-partnership-with-an.png"
+    image = "retrospective-lanzatech-and-brookfield-form-strategic-partnership-with-an.png"
 +++
 
 LanzaTech converts carbon through the power of biology, using a biocatalyst 

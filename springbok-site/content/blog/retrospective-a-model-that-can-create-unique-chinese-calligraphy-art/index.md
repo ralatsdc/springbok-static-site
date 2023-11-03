@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-a-model-that-can-create-unique-chinese-calligraphy-art.png"
 +++
 
 This includes generative adversarial networks (GANs), machine-learning 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ex-digital-yuan-leader-china-can-monitor-payments-without-a.png"
 +++
 
 In a separate part of his speech, he touched on smart contracts. “In my 

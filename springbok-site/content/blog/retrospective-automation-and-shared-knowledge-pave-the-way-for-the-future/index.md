@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-automation-and-shared-knowledge-pave-the-way-for-the-future.png"
 +++
 
 Synthetic biology has also played a major role in winning ground against 

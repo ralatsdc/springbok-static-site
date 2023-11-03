@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "evolving-antibiotic-spectrum.png"
+    image = "retrospective-evolving-antibiotic-spectrum.png"
 +++
 
 ... bioinformatic analyses to identify conditions favoring narrow- and 

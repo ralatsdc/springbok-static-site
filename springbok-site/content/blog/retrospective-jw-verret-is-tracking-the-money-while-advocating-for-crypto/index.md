@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "jw-verret-is-tracking-the-money-while-advocating-for-crypto.png"
+    image = "retrospective-jw-verret-is-tracking-the-money-while-advocating-for-crypto.png"
 +++
 
 ... Blockchain Professor — are poignantly aware. Aside from his work at 

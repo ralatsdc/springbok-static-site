@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-splash-ai-music-roblox-game-had-1m-players-in-20-days.png"
 +++
 
 AR startup Jadu raises $36m to build its web3-infused game. Back in the 

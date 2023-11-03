@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "partnership-with-liberia-builds-scientific-capacity-and.png"
+    image = "retrospective-partnership-with-liberia-builds-scientific-capacity-and.png"
 +++
 
 Uniquely, the visit also gave Shobayo hands-on training in DNA and RNA 

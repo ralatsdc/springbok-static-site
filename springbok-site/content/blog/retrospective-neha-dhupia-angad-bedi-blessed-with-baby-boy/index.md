@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "neha-dhupia-angad-bedi-blessed-with-baby-boy.png"
+    image = "retrospective-neha-dhupia-angad-bedi-blessed-with-baby-boy.png"
 +++
 
 Microsoft's Generative AI Initiatives - A Vision to Transform Businesses 

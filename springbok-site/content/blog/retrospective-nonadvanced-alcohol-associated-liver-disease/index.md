@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nonadvanced-alcohol-associated-liver-disease.png"
+    image = "retrospective-nonadvanced-alcohol-associated-liver-disease.png"
 +++
 
 ... management.2. image. Spectrum and Definitions of ALD. ALD is caused by 

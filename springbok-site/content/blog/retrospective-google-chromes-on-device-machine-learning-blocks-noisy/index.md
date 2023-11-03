@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-google-chromes-on-device-machine-learning-blocks-noisy.png"
 +++
 
 A blog post today reports that, in March, it updated the machine learning 

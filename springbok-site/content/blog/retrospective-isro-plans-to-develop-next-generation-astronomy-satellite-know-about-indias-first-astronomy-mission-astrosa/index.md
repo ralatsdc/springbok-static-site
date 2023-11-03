@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "isro-plans-to-develop-next-generation-astronomy-satellite-know-about-indias-first-astronomy-mission-astrosa.png"
+    image = "retrospective-isro-plans-to-develop-next-generation-astronomy-satellite-know-about-indias-first-astronomy-mission-astrosa.png"
 +++
 
 It was launched on 6 foreign satellites by ISRO's Polar Satellite Launch 

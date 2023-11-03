@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-global-bioinformatics-platform-market-is-estimated-to-be-us.png"
 +++
 
 Global Bioinformatics Platform Market is estimated to be US$ 14.0 Billion 

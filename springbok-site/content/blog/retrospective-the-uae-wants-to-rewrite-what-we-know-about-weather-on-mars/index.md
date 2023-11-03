@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-the-uae-wants-to-rewrite-what-we-know-about-weather-on-mars.png"
 +++
 
 ... director of the space science department at the UAE's Mohammed bin 

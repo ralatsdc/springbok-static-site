@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-us-space-force-celebrates-first-birthday-virtually.png"
 +++
 
 Gen. Whiting, commander of Space Operations Command, said the Space Force 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-global-digital-twins-market-expected-to-hit-9-billion-by-2026.png"
 +++
 
 The global digital twin market in the utility industry is expected to grow 

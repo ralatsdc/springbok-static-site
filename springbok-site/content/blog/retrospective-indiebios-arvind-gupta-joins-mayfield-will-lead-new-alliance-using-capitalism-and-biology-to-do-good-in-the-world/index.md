@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-indiebios-arvind-gupta-joins-mayfield-will-lead-new-alliance-using-capitalism-and-biology-to-do-good-in-the-world.png"
 +++
 
 Biology: the ultimate change agent for human and planetary health. Mayfield 

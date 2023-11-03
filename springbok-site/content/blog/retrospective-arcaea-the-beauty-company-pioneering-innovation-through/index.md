@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-arcaea-the-beauty-company-pioneering-innovation-through.png"
 +++
 
 ... Through Expressive Biology, Announces Acquisition of Gadusol 

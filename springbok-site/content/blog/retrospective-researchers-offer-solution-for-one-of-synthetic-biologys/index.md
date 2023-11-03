@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-researchers-offer-solution-for-one-of-synthetic-biologys.png"
 +++
 
 “Engineered genetic systems are the source of biotechnology's revolution,” 

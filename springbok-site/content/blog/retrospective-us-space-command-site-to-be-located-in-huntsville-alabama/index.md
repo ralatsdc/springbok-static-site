@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-us-space-command-site-to-be-located-in-huntsville-alabama.png"
 +++
 
 That is different from the Space Force, which is a distinct military 

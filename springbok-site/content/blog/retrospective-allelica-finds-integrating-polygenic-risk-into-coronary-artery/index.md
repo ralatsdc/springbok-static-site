@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-allelica-finds-integrating-polygenic-risk-into-coronary-artery.png"
 +++
 
 NEW YORK – Bioinformatics company Allelica predicts that incorporating 

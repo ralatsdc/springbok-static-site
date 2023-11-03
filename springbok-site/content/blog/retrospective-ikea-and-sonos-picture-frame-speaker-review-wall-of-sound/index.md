@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ikea-and-sonos-picture-frame-speaker-review-wall-of-sound.png"
 +++
 
 Ikea's default art design on the mesh fabric isn't going to be for 

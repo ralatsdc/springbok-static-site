@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-a-wise-counsel-for-synthetic-biology-researchers-develop.png"
 +++
 
 Though engineering of biological systems is truly indispensable in 

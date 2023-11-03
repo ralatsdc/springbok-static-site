@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-exploring-synthetic-engineering-of-bacteriophages.png"
 +++
 
 On the bacterial lawn, T7Pac-lacZ did not develop plaques, suggesting 

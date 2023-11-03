@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-insights-insightful-science-acquires-cytapex-bioinformatics.png"
 +++
 
 CPE News (5/30/2020) – Insightful Science, LLC, a portfolio company of 

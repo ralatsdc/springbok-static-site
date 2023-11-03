@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-metas-make-a-scene-ai-blends-human-and-computer-imagination-into-algorithmic-art.png"
 +++
 
 Meta's 'Make-A-Scene' AI blends human and computer imagination into 

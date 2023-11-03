@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-scientists-use-genomics-and-bioinformatics-to-analyze-blueprint-of-novel-coronavirus.png"
 +++
 
 Scientists use genomics and bioinformatics to analyze blueprint of novel 

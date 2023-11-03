@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-blockchain-security-firm-certik-approaches-unicorn-status-following-80m-raise.png"
 +++
 
 Global blockchain security firm CertiK has concluded an $80 million 

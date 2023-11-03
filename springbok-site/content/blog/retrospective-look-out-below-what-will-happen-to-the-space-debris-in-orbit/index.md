@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "look-out-below-what-will-happen-to-the-space-debris-in-orbit.png"
+    image = "retrospective-look-out-below-what-will-happen-to-the-space-debris-in-orbit.png"
 +++
 
 Similarly, a 2009 collision between the defunct Russian satellite Kosmos 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-environmental-cues-keep-car-t-cells-on-track.png"
 +++
 
 Aparna is a freelance science writer pursuing a PhD in bioinformatics and 

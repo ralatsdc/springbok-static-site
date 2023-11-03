@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-super-distant-black-hole-is-eating-half-a-sun-a-year-and.png"
 +++
 
 All told, 21 telescopes observed AT2022cmc in various wavelengths of light, 

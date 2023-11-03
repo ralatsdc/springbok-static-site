@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-bioinformatics-services-market-to-observe-exponential.png"
 +++
 
 Bioinformatics Services Market to Observe Exponential Growth By 2022 to 

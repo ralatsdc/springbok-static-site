@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-the-digital-yuan-of-china-to-integrate-smart-contracts-bitcoinistcom.png"
 +++
 
 The digital version of the Chinese Yuan is also called e-CNY. By using 

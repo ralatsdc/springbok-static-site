@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-mitsubishi-electric-develops-new-blockchain-for-p2p-energy.png"
 +++
 
 The platform is not an application based on an existing blockchain but 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-blockchain-tradable-carbon-token-launched.png"
 +++
 
 He continued with typical blockchain enthusiasm. “This was a light bulb 

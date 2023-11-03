@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-using-generative-adversarial-networks-for-genome-variant.png"
 +++
 
 It achieves 94.25% F1 score on low depth data, while the F1 score of the 

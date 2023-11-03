@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "toyota-researchers-steer-generative-ai-to-aid-engineering.png"
+    image = "retrospective-toyota-researchers-steer-generative-ai-to-aid-engineering.png"
 +++
 
 “This technique combines Toyota's traditional engineering strengths with 

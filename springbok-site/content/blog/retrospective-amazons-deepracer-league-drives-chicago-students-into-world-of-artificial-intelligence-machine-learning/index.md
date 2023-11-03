@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "amazons-deepracer-league-drives-chicago-students-into-world-of-artificial-intelligence-machine-learning.png"
+    image = "retrospective-amazons-deepracer-league-drives-chicago-students-into-world-of-artificial-intelligence-machine-learning.png"
 +++
 
 CHICAGO (WLS) -- Students on Chicago's South Side got a deep dive into the 

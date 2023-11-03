@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-machine-learning-algorithm-accelerates-diagnosis-of-gut.png"
 +++
 
 June 18, 2019 - Machine learning algorithms can rapidly analyze biopsy 

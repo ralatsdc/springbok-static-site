@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-how-machine-learning-is-changing-business-communications.png"
 +++
 
 Artificial intelligence and machine learning are increasingly used to make 

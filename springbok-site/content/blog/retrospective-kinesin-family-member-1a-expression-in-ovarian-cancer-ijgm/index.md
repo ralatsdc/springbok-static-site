@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-kinesin-family-member-1a-expression-in-ovarian-cancer-ijgm.png"
 +++
 
 Bioinformatics Analysis of KIF1A Expression and Gene Regulation Network in 

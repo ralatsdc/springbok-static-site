@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-gitlab-acquires-unreview-to-expand-its-open-devops.png"
 +++
 
 Acquisition takes first step in building GitLab's Applied Machine Learning 

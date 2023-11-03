@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "dynamics-of-inflammatory-cytokine-expression-in-bovine.png"
+    image = "retrospective-dynamics-of-inflammatory-cytokine-expression-in-bovine.png"
 +++
 
 Synthetic (latex) beads of size 100 nm were used to perform instrument ... 

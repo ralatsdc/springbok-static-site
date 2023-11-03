@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "japanese-prime-minister-says-govt-investment-in-digital-transformation-will-include-metaverse-nfts.png"
+    image = "retrospective-japanese-prime-minister-says-govt-investment-in-digital-transformation-will-include-metaverse-nfts.png"
 +++
 
 Fumio Kishida, the prime minister of Japan since 2021, has said the 

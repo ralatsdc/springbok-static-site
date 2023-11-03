@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-jeff-bezos-appreciates-your-efforts-to-get-jeff-bezos-to-space.png"
 +++
 
 After landing from his little jaunt to the edge of space, Amazon founder 

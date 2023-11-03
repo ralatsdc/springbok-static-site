@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-synthetic-crispri-based-plasmid-screening-to-reduce-antibiotic-resistance.png"
 +++
 
 "If synthetic biology is applied to the antibiotic-free bio-manufacturing 

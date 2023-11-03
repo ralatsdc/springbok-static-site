@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-blockchain-and-nfts-are-smart-but-can-they-revolutionize.png"
 +++
 
 A blockchain is a form of database or ledger that stores information in 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-this-is-the-actual-truth-behind-the-gorilla-in-space-prank.png"
 +++
 
 In the latest retelling of events, Spence Todd on Twitter wrote that 

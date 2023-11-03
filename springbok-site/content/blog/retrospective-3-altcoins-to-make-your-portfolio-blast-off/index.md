@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "3-altcoins-to-make-your-portfolio-blast-off.png"
+    image = "retrospective-3-altcoins-to-make-your-portfolio-blast-off.png"
 +++
 
 Investing Group Leader. Follow. Summary. Altcoins are highly correlated to 

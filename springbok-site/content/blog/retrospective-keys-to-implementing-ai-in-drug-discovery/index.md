@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "keys-to-implementing-ai-in-drug-discovery.png"
+    image = "retrospective-keys-to-implementing-ai-in-drug-discovery.png"
 +++
 
 Implementing artificial intelligence and machine learning tools in drug 

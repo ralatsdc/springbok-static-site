@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-cadence-design-systems-launches-cerebrus-machine-learning-for-chip-design.png"
 +++
 
 The machine learning can reinforce engineers, considering solutions that 

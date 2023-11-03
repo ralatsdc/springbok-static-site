@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-jeff-bezos-is-going-to-space-for-a-few-minutes.png"
 +++
 
 Just two weeks after he steps down as CEO of Amazon, Bezos will climb 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "defi-demystified-what-is-a-liquidity-provider.png"
+    image = "retrospective-defi-demystified-what-is-a-liquidity-provider.png"
 +++
 
 These pools are governed by the smart contracts on the DEX. This is the 

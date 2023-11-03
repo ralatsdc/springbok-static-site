@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "momentus-announces-40-million-registered-direct-offering-priced-at-the-market-under-nasdaq-rules.png"
+    image = "retrospective-momentus-announces-40-million-registered-direct-offering-priced-at-the-market-under-nasdaq-rules.png"
 +++
 
 (NASDAQ: MNTS) ("Momentus" or the "Company"), a U.S. commercial space 

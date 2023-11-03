@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-ai-vs-machine-learning-and-what-they-mean-for-government.png"
 +++
 
 Machine learning, on the other hand, is focused on enabling machines to 

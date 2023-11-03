@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "nicholas-goldberg-did-andy-warhol-steal-someones-work-or.png"
+    image = "retrospective-nicholas-goldberg-did-andy-warhol-steal-someones-work-or.png"
 +++
 
 Shapiro: How Pennsylvania will embrace generative AI · Implosion at 

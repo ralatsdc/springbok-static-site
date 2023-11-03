@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-top-12-nft-artists-and-crypto-art-projects-of-2021.png"
 +++
 
 One of the first high-profile NFT art sales was auctioned at Christie's 

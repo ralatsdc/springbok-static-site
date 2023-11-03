@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "detoxify-soil-treat-plant-diseases-with-shukaku-riki-sunstar.png"
+    image = "retrospective-detoxify-soil-treat-plant-diseases-with-shukaku-riki-sunstar.png"
 +++
 
 WHEN soil becomes too concentrated with synthetic fertilizers, it becomes 

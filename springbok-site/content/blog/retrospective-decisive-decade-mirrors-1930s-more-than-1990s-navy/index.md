@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "decisive-decade-mirrors-1930s-more-than-1990s-navy.png"
+    image = "retrospective-decisive-decade-mirrors-1930s-more-than-1990s-navy.png"
 +++
 
 A highly regarded news source for defense professionals in government and 

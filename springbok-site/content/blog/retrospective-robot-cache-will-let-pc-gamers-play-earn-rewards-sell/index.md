@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-robot-cache-will-let-pc-gamers-play-earn-rewards-sell.png"
 +++
 
 As more gaming companies migrate to Web3, Casper is emerging as a 

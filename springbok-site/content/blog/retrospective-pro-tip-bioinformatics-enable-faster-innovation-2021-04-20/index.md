@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-pro-tip-bioinformatics-enable-faster-innovation-2021-04-20.png"
 +++
 
 One tool that is helping automate the discovery of how proteins function 

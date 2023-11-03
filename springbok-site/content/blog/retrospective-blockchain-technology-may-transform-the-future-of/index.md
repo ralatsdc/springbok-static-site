@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-blockchain-technology-may-transform-the-future-of.png"
 +++
 
 At the most fundamental level, blockchain technology enables 

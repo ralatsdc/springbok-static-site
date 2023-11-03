@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-why-scientists-are-turning-to-rust.png"
 +++
 
 These encapsulate algorithms in disciplines such as bioinformatics 

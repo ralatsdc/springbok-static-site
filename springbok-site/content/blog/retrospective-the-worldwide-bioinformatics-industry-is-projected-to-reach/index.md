@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-the-worldwide-bioinformatics-industry-is-projected-to-reach.png"
 +++
 
 “Global Bioinformatics Market (2022-2027) by Product & Service, Sector, 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "predetermined-change-control-plans-for-aiml-enabled.png"
+    image = "retrospective-predetermined-change-control-plans-for-aiml-enabled.png"
 +++
 
 Marketing Submission Recommendations for a Predetermined Change Control 

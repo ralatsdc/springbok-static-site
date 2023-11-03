@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-at-121-cagr-bioinformatics-market-size-to-hit-usd-2407.png"
 +++
 
 Bioinformatics is a combination of biology and information technology, 

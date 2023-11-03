@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-why-timing-the-real-estate-market-rarely-works.png"
 +++
 
 New generative AI tool instantly builds PowerPoints and presentation ... 

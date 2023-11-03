@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-startup-aims-to-secure-ai-machine-learning-development.png"
 +++
 
 As companies increasingly add artificial intelligence (AI) capabilities to 

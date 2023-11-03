@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-synthetic-microbial-system-developed-to-find-objects-origin.png"
 +++
 
 “Spores are in many ways an old-school solution and have been safely 

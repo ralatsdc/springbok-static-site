@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-warner-music-group-joins-520m-investment-round-in-video.png"
 +++
 
 Warner Music Group has invested in kids' gaming phenomenon Roblox, as the 

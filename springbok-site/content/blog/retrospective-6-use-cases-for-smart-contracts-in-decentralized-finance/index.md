@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-6-use-cases-for-smart-contracts-in-decentralized-finance.png"
 +++
 
 This is because it is really simple to engineer an MVP (minimum viable 

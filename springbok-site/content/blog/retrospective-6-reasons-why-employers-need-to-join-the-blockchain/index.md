@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-6-reasons-why-employers-need-to-join-the-blockchain.png"
 +++
 
 Smart contracts are self-executing contracts where the parties agree on 

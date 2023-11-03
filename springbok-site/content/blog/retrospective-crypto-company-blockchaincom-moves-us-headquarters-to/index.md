@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-crypto-company-blockchaincom-moves-us-headquarters-to.png"
 +++
 
 Blockchain.com is connecting the world to the future of finance. The 

@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-defi-growth-is-fuelled-by-oracles-says-chainlink-founder.png"
 +++
 
 The DeFi boom will lead to even more smart contracts attracting new data 

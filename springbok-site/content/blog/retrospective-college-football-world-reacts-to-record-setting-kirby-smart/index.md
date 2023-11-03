@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-college-football-world-reacts-to-record-setting-kirby-smart.png"
 +++
 
 The Georgia head coach agreed to a contract extension that will keep him at 

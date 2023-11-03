@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-what-are-smart-contracts.png"
 +++
 
 Smart contracts are programs written on the blockchain that self-execute 

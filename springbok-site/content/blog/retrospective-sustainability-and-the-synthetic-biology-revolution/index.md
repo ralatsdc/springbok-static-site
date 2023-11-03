@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-sustainability-and-the-synthetic-biology-revolution.png"
 +++
 
 Sustainability and the Synthetic Biology Revolution. Twist Bioscience 

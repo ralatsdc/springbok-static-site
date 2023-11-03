@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-nasa-releases-first-images-from-the-james-webb-space.png"
 +++
 
 Scientists hoped the $10 billion space observatory would allow them to 

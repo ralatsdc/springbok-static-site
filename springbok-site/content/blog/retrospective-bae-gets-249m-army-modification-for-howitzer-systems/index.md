@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-bae-gets-249m-army-modification-for-howitzer-systems.png"
 +++
 
 John Raymond: Northrop's Pegasus Rocket to Launch 'Space Domain Awareness' 

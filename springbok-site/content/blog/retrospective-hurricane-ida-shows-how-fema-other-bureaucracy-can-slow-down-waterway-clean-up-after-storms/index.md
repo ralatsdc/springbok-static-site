@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "hurricane-ida-shows-how-fema-other-bureaucracy-can-slow-down-waterway-clean-up-after-storms.png"
+    image = "retrospective-hurricane-ida-shows-how-fema-other-bureaucracy-can-slow-down-waterway-clean-up-after-storms.png"
 +++
 
 ... contracts from one of the two federal sources. Last will come 200 miles 

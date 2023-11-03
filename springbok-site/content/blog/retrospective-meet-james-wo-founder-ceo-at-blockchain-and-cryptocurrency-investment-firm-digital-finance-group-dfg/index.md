@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "meet-james-wo-founder-ceo-at-blockchain-and-cryptocurrency-investment-firm-digital-finance-group-dfg.png"
+    image = "retrospective-meet-james-wo-founder-ceo-at-blockchain-and-cryptocurrency-investment-firm-digital-finance-group-dfg.png"
 +++
 
 Digital Finance Group (DFG) is a global blockchain and cryptocurrency 

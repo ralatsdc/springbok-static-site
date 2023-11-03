@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-a-push-to-make-smart-contracts-even-smarter.png"
 +++
 
 Smart contracts are the glue that binds blockchain-based relationships. 

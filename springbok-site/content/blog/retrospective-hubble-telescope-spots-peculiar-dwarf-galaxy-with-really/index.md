@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-hubble-telescope-spots-peculiar-dwarf-galaxy-with-really.png"
 +++
 
 The Hubble Space Telescope has captured a dazzling new view of a busy star 

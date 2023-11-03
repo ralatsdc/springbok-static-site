@@ -6,7 +6,7 @@ fragment = "content"
 weight = 10
 
 [asset]
-    image = "placeholder.png"
+    image = "retrospective-meet-the-stanford-ai-lab-alums-that-raised-15-million-to.png"
 +++
 
 The company's flagship product is the end-to-end Machine Learning platform 
